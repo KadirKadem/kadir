@@ -1,0 +1,1676 @@
+﻿group-title="Germany - גרמניה" tvg-logo="",NEX1
+http://localhost:65007/?url=84;;nex1tv&mode=6
+
+#EXTINF:-1 tvg-id="eins festival" tvg-name="eins_festival" group-title="Germany - גרמניה" tvg-logo="69a4072a037d2b848cbc3ecf0ab32dea.png",eins festival
+http://localhost:65007/?url=421&ignorefilmonguide=1&mode=1
+
+#EXTINF:-1 tvg-id="eins plus" tvg-name="eins_plus" group-title="Germany - גרמניה" tvg-logo="09b212def02628a04ef5904cd87617ad.png",eins plus
+http://localhost:65007/?url=418&ignorefilmonguide=1&mode=1
+
+#EXTINF:-1 tvg-id="KIKA" tvg-name="KIKA" group-title="Germany - גרמניה" tvg-logo="e2447abc326980f904d99127e4aaad2d.png",KIKA
+http://localhost:65007/?url=2756&ignorefilmonguide=1&mode=1
+
+#EXTINF:-1 tvg-id="KIKA" tvg-name="KIKA" group-title="Germany - גרמניה" tvg-logo="e2447abc326980f904d99127e4aaad2d.png",KIKA
+http://localhost:65007/?url=KiKa&mode=4
+
+#EXTINF:-1 tvg-id="KIKA" tvg-name="KIKA" group-title="Germany - גרמניה" tvg-logo="e2447abc326980f904d99127e4aaad2d.png",KIKA
+http://localhost:65007/?url=izle/kika&mode=12
+
+#EXTINF:-1 tvg-id="N-TV" tvg-name="N-TV" group-title="Germany - גרמניה" tvg-logo="0da127061b402d2fddb2139edb679e9a.png",N-TV
+http://localhost:65007/?url=1033&ignorefilmonguide=1&mode=1
+
+#EXTINF:-1 tvg-id="N-TV" tvg-name="N-TV" group-title="Germany - גרמניה" tvg-logo="0da127061b402d2fddb2139edb679e9a.png",N-TV
+http://localhost:65007/?url=NTV&mode=4
+
+#EXTINF:-1 tvg-id="N-TV" tvg-name="N-TV" group-title="Germany - גרמניה" tvg-logo="0da127061b402d2fddb2139edb679e9a.png",N-TV
+http://localhost:65007/?url=izle/n-tv&mode=12
+
+#EXTINF:-1 tvg-id="ZDF" tvg-name="ZDF" group-title="Germany - גרמניה" tvg-logo="bb3d72f6fb8eeb87d2d02c5c2ddeab9c.png",ZDF
+http://localhost:65007/?url=2759&mode=1
+
+#EXTINF:-1 tvg-id="ZDF" tvg-name="ZDF" group-title="Germany - גרמניה" tvg-logo="bb3d72f6fb8eeb87d2d02c5c2ddeab9c.png",ZDF
+http://localhost:65007/?url=ZDF&mode=4
+
+#EXTINF:-1 tvg-id="ZDF" tvg-name="ZDF" group-title="Germany - גרמניה" tvg-logo="bb3d72f6fb8eeb87d2d02c5c2ddeab9c.png",ZDF
+http://localhost:65007/?url=220;;zdftv&mode=6
+
+#EXTINF:-1 tvg-id="ZDF" tvg-name="ZDF" group-title="Germany - גרמניה" tvg-logo="bb3d72f6fb8eeb87d2d02c5c2ddeab9c.png",ZDF
+http://localhost:65007/?url=izle/zdf&mode=12
+
+#EXTINF:-1 tvg-id="ZDF" tvg-name="ZDF" group-title="Germany - גרמניה" tvg-logo="bb3d72f6fb8eeb87d2d02c5c2ddeab9c.png",ZDF
+http://localhost:65007/?url=zdf-live&mode=19
+
+#EXTINF:-1 tvg-id="ZDFneo" tvg-name="ZDFneo" group-title="Germany - גרמניה" tvg-logo="305904f13297f5831dd6bdda00266ff6.png",ZDFneo
+http://localhost:65007/?url=360&ignorefilmonguide=1&mode=1
+
+#EXTINF:-1 tvg-id="ZDFneo" tvg-name="ZDFneo" group-title="Germany - גרמניה" tvg-logo="305904f13297f5831dd6bdda00266ff6.png",ZDFneo
+http://localhost:65007/?url=ZDFNEO&mode=4
+
+#EXTINF:-1 tvg-id="zdf.kultur" tvg-name="zdf.kultur" group-title="Germany - גרמניה" tvg-logo="c0e87fda3dfceeb2a986623f39c34e84.png",zdf.kultur
+http://localhost:65007/?url=359&ignorefilmonguide=1&mode=1
+
+#EXTINF:-1 tvg-id="ZDF INFOKANAL" tvg-name="ZDF_INFOKANAL" group-title="Germany - גרמניה" tvg-logo="e58315bbe43aec432948fe7f7ee5daa0.png",ZDF INFOKANAL
+http://localhost:65007/?url=2762&ignorefilmonguide=1&mode=1
+
+#EXTINF:-1 tvg-id="Tagesschau 24" tvg-name="Tagesschau_24" group-title="Germany - גרמניה" tvg-logo="498a31244ada90d9b8c654d5c1dcdd85.png",Tagesschau 24
+http://localhost:65007/?url=415&ignorefilmonguide=1&mode=1
+
+#EXTINF:-1 tvg-id="Tagesschau 24" tvg-name="Tagesschau_24" group-title="Germany - גרמניה" tvg-logo="498a31244ada90d9b8c654d5c1dcdd85.png",Tagesschau 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+
+#EXTINF:-1 tvg-id="Tagesschau 24" tvg-name="Tagesschau_24" group-title="Germany - גרמניה" tvg-logo="498a31244ada90d9b8c654d5c1dcdd85.png",Tagesschau 24
+http://localhost:65007/?url=izle/tagesschau24&mode=12
+
+#EXTINF:-1 tvg-id="Phoenix" tvg-name="Phoenix" group-title="Germany - גרמניה" tvg-logo="f7f85621e3f01f2381cca08b5ac3a848.png",Phoenix
+http://localhost:65007/?url=424&ignorefilmonguide=1&mode=1
+
+#EXTINF:-1 tvg-id="Phoenix" tvg-name="Phoenix" group-title="Germany - גרמניה" tvg-logo="f7f85621e3f01f2381cca08b5ac3a848.png",Phoenix
+http://localhost:65007/?url=phoenix&mode=4
+
+#EXTINF:-1 tvg-id="Phoenix" tvg-name="Phoenix" group-title="Germany - גרמניה" tvg-logo="f7f85621e3f01f2381cca08b5ac3a848.png",Phoenix
+http://localhost:65007/?url=izle/phoenix&mode=12
+
+#EXTINF:-1 tvg-id="daserste" tvg-name="daserste" group-title="Germany - גרמניה" tvg-logo="3850005817e5dcc2b6e960b0a888a925.png",daserste
+http://localhost:65007/?url=ARD&mode=4
+
+#EXTINF:-1 tvg-id="daserste" tvg-name="daserste" group-title="Germany - גרמניה" tvg-logo="3850005817e5dcc2b6e960b0a888a925.png",daserste
+http://localhost:65007/?url=204;;daserste&mode=6
+
+#EXTINF:-1 tvg-id="daserste" tvg-name="daserste" group-title="Germany - גרמניה" tvg-logo="3850005817e5dcc2b6e960b0a888a925.png",daserste
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+
+#EXTINF:-1 tvg-id="daserste" tvg-name="daserste" group-title="Germany - גרמניה" tvg-logo="3850005817e5dcc2b6e960b0a888a925.png",daserste
+http://localhost:65007/?url=izle/ard-daserste&mode=12
+
+#EXTINF:-1 tvg-id="daserste" tvg-name="daserste" group-title="Germany - גרמניה" tvg-logo="3850005817e5dcc2b6e960b0a888a925.png",daserste
+http://localhost:65007/?url=das-erste-live&mode=19
+
+#EXTINF:-1 tvg-id="SAT1" tvg-name="SAT1" group-title="Germany - גרמניה" tvg-logo="7ebeeb88075f2c880004aa750249b500.png",SAT1
+http://localhost:65007/?url=SAT1&mode=4
+
+#EXTINF:-1 tvg-id="SAT1" tvg-name="SAT1" group-title="Germany - גרמניה" tvg-logo="7ebeeb88075f2c880004aa750249b500.png",SAT1
+http://localhost:65007/?url=izle/sat-1&mode=12
+
+#EXTINF:-1 tvg-id="SAT1" tvg-name="SAT1" group-title="Germany - גרמניה" tvg-logo="7ebeeb88075f2c880004aa750249b500.png",SAT1
+http://localhost:65007/?url=sat-1-live&mode=19
+
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL" group-title="Germany - גרמניה" tvg-logo="6f0d397641c9a9ce46d4b5e13ebb68f2.png",RTL
+http://localhost:65007/?url=RTL&mode=4
+
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL" group-title="Germany - גרמניה" tvg-logo="6f0d397641c9a9ce46d4b5e13ebb68f2.png",RTL
+http://localhost:65007/?url=izle/rtl&mode=12
+
+#EXTINF:-1 tvg-id="RTL2" tvg-name="RTL2" group-title="Germany - גרמניה" tvg-logo="8151ee85d1dada383e296796edf2616b.png",RTL2
+http://localhost:65007/?url=RTL2&mode=4
+
+#EXTINF:-1 tvg-id="RTL2" tvg-name="RTL2" group-title="Germany - גרמניה" tvg-logo="8151ee85d1dada383e296796edf2616b.png",RTL2
+http://localhost:65007/?url=izle/rtl-2&mode=12
+
+#EXTINF:-1 tvg-id="RTL2" tvg-name="RTL2" group-title="Germany - גרמניה" tvg-logo="8151ee85d1dada383e296796edf2616b.png",RTL2
+http://localhost:65007/?url=rtl2-de-live&mode=19
+
+#EXTINF:-1 tvg-id="PRO7" tvg-name="PRO7" group-title="Germany - גרמניה" tvg-logo="d68df6d262a24a1e9f3539e51f93a882.png",PRO7
+http://localhost:65007/?url=PRO7&mode=4
+
+#EXTINF:-1 tvg-id="PRO7" tvg-name="PRO7" group-title="Germany - גרמניה" tvg-logo="d68df6d262a24a1e9f3539e51f93a882.png",PRO7
+http://localhost:65007/?url=izle/pro-sieben&mode=12
+
+#EXTINF:-1 tvg-id="PRO7" tvg-name="PRO7" group-title="Germany - גרמניה" tvg-logo="d68df6d262a24a1e9f3539e51f93a882.png",PRO7
+http://localhost:65007/?url=prosieben-live&mode=19
+
+#EXTINF:-1 tvg-id="PRO7 Maxx" tvg-name="PRO7_Maxx" group-title="Germany - גרמניה" tvg-logo="bff6b3219b05a6449057480ae9187fa9.jpg",PRO7 Maxx
+http://localhost:65007/?url=izle/pro-7-maxx&mode=12
+
+#EXTINF:-1 tvg-id="VOX" tvg-name="VOX" group-title="Germany - גרמניה" tvg-logo="2016450188dfe99e98a7f199c7486e4e.png",VOX
+http://localhost:65007/?url=VOX&mode=4
+
+#EXTINF:-1 tvg-id="VOX" tvg-name="VOX" group-title="Germany - גרמניה" tvg-logo="2016450188dfe99e98a7f199c7486e4e.png",VOX
+http://localhost:65007/?url=izle/vox&mode=12
+
+#EXTINF:-1 tvg-id="KABEL1" tvg-name="KABEL1" group-title="Germany - גרמניה" tvg-logo="44010f95d730fadee4152687cb9a11e4.png",KABEL1
+http://localhost:65007/?url=KABEL1&mode=4
+
+#EXTINF:-1 tvg-id="KABEL1" tvg-name="KABEL1" group-title="Germany - גרמניה" tvg-logo="44010f95d730fadee4152687cb9a11e4.png",KABEL1
+http://localhost:65007/?url=izle/kabel-eins&mode=12
+
+#EXTINF:-1 tvg-id="SIXX" tvg-name="SIXX" group-title="Germany - גרמניה" tvg-logo="7d6dd5692f87c200a8a39bd2a9691a6d.png",SIXX
+http://localhost:65007/?url=SIXX&mode=4
+
+#EXTINF:-1 tvg-id="SIXX" tvg-name="SIXX" group-title="Germany - גרמניה" tvg-logo="7d6dd5692f87c200a8a39bd2a9691a6d.png",SIXX
+http://localhost:65007/?url=izle/sixx&mode=12
+
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" group-title="Germany - גרמניה" tvg-logo="b1c68494e88ce54d963b176e7bdd3866.png",DMAX
+http://localhost:65007/?url=DMAX&mode=4
+
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" group-title="Germany - גרמניה" tvg-logo="b1c68494e88ce54d963b176e7bdd3866.png",DMAX
+http://localhost:65007/?url=izle/dmax&mode=12
+
+#EXTINF:-1 tvg-id="SUPER RTL" tvg-name="SUPER_RTL" group-title="Germany - גרמניה" tvg-logo="e70410ffcacab61d5ba19a6b501424a9.png",SUPER RTL
+http://localhost:65007/?url=SUPERRTL&mode=4
+
+#EXTINF:-1 tvg-id="SUPER RTL" tvg-name="SUPER_RTL" group-title="Germany - גרמניה" tvg-logo="e70410ffcacab61d5ba19a6b501424a9.png",SUPER RTL
+http://localhost:65007/?url=izle/super-rtl&mode=12
+
+#EXTINF:-1 tvg-id="RTL NITRO" tvg-name="RTL_NITRO" group-title="Germany - גרמניה" tvg-logo="ec635a449bffd421b30febe139c5d45c.png",RTL NITRO
+http://localhost:65007/?url=RTLNITRO&mode=4
+
+#EXTINF:-1 tvg-id="RTL NITRO" tvg-name="RTL_NITRO" group-title="Germany - גרמניה" tvg-logo="ec635a449bffd421b30febe139c5d45c.png",RTL NITRO
+http://localhost:65007/?url=izle/rtl-nitro&mode=12
+
+#EXTINF:-1 tvg-id="3SAT" tvg-name="3SAT" group-title="Germany - גרמניה" tvg-logo="92146e31f9f572260b5acf070ce2fa29.png",3SAT
+http://localhost:65007/?url=3SAT&mode=4
+
+#EXTINF:-1 tvg-id="3SAT" tvg-name="3SAT" group-title="Germany - גרמניה" tvg-logo="92146e31f9f572260b5acf070ce2fa29.png",3SAT
+http://localhost:65007/?url=izle/3sat&mode=12
+
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport" group-title="Germany - גרמניה" tvg-logo="b1e4a26d6830c7fb893b6d8420bc87c6.png",Eurosport
+http://localhost:65007/?url=Eurosport&mode=4
+
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport" group-title="Germany - גרמניה" tvg-logo="b1e4a26d6830c7fb893b6d8420bc87c6.png",Eurosport
+http://localhost:65007/?url=eurosport-hd-francais-en-direct&mode=19
+
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport" group-title="Germany - גרמניה" tvg-logo="b1e4a26d6830c7fb893b6d8420bc87c6.png",Eurosport
+http://localhost:65007/?url=izle/eurosport-deutschland&mode=12
+
+#EXTINF:-1 tvg-id="Sport1" tvg-name="Sport1" group-title="Germany - גרמניה" tvg-logo="93b986aec06f9cb52e3f420bdc2b5cab.png",Sport1
+http://localhost:65007/?url=Sport1&mode=4
+
+#EXTINF:-1 tvg-id="nick" tvg-name="nick" group-title="Germany - גרמניה" tvg-logo="a4754c9707651455370966bafc2b4166.png",nick
+http://localhost:65007/?url=nickcc&mode=4
+
+#EXTINF:-1 tvg-id="nick" tvg-name="nick" group-title="Germany - גרמניה" tvg-logo="a4754c9707651455370966bafc2b4166.png",nick
+http://localhost:65007/?url=izle/nickelodeon&mode=12
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney_Channel" group-title="Germany - גרמניה" tvg-logo="82b1c8da9664e4d04d3f45ac5f71cc8c.png",Disney Channel
+http://localhost:65007/?url=izle/disney-channel-de&mode=12
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney_Channel" group-title="Germany - גרמניה" tvg-logo="82b1c8da9664e4d04d3f45ac5f71cc8c.png",Disney Channel
+http://localhost:65007/?url=disney_channel&mode=4
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy_Central" group-title="Germany - גרמניה" tvg-logo="10b11fccfc5c760fc0c377be1abba91c.png",Comedy Central
+http://localhost:65007/?url=VIVA&mode=4
+
+#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" group-title="Germany - גרמניה" tvg-logo="10b11fccfc5c760fc0c377be1abba91c.png",VIVA
+http://localhost:65007/?url=izle/viva-tv&mode=12
+
+#EXTINF:-1 tvg-id="JOIZ" tvg-name="JOIZ" group-title="Germany - גרמניה" tvg-logo="e6cb35c69daeea22bd3e2a1b002d9f63.png",JOIZ
+http://localhost:65007/?url=JOIZ&mode=4
+
+#EXTINF:-1 tvg-id="arte" tvg-name="arte" group-title="Germany - גרמניה" tvg-logo="ba9be7753e72711c62cc73a97fe5f920.png",arte
+http://localhost:65007/?url=arte&mode=4
+
+#EXTINF:-1 tvg-id="WDR" tvg-name="WDR" group-title="Germany - גרמניה" tvg-logo="8d83bd0e37e9d01e572139c0edf025a9.png",WDR
+http://localhost:65007/?url=WDR&mode=4
+
+#EXTINF:-1 tvg-id="WDR" tvg-name="WDR" group-title="Germany - גרמניה" tvg-logo="8d83bd0e37e9d01e572139c0edf025a9.png",WDR
+http://metafilegenerator.de/WDR/WDR_FS/m3u8/wdrfernsehen.m3u8
+
+#EXTINF:-1 tvg-id="WDR" tvg-name="WDR" group-title="Germany - גרמניה" tvg-logo="8d83bd0e37e9d01e572139c0edf025a9.png",WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+
+#EXTINF:-1 tvg-id="WDR" tvg-name="WDR" group-title="Germany - גרמניה" tvg-logo="8d83bd0e37e9d01e572139c0edf025a9.png",WDR
+http://localhost:65007/?url=izle/wdr&mode=12
+
+#EXTINF:-1 tvg-id="WDR" tvg-name="WDR" group-title="Germany - גרמניה" tvg-logo="8d83bd0e37e9d01e572139c0edf025a9.png",WDR
+http://localhost:65007/?url=wdr-live&mode=19
+
+#EXTINF:-1 tvg-id="MDR" tvg-name="MDR" group-title="Germany - גרמניה" tvg-logo="86b6326ac30dfe29033d77eb25b64d81.png",MDR
+http://localhost:65007/?url=MDR&mode=4
+
+#EXTINF:-1 tvg-id="MDR" tvg-name="MDR" group-title="Germany - גרמניה" tvg-logo="86b6326ac30dfe29033d77eb25b64d81.png",MDR
+http://localhost:65007/?url=izle/mdr&mode=12
+
+#EXTINF:-1 tvg-id="SWR" tvg-name="SWR" group-title="Germany - גרמניה" tvg-logo="a87fcaefb9ec6e09574e5556d3e04c2f.png",SWR
+http://localhost:65007/?url=SWR&mode=4
+
+#EXTINF:-1 tvg-id="BR" tvg-name="BR" group-title="Germany - גרמניה" tvg-logo="0451cda9fd6aac23469b62935a41b1b1.png",BR
+http://localhost:65007/?url=BR&mode=4
+
+#EXTINF:-1 tvg-id="HR" tvg-name="HR" group-title="Germany - גרמניה" tvg-logo="2a934b4927f00ee7a3e4d5e21a2d3268.jpg",HR
+http://localhost:65007/?url=izle/hr&mode=12
+
+#EXTINF:-1 tvg-id="ORF1" tvg-name="ORF1" group-title="Germany - גרמניה" tvg-logo="51c9a43e6eb34eb28f0c9046e1558bb9.png",ORF1
+http://localhost:65007/?url=ORF1&mode=4
+
+#EXTINF:-1 tvg-id="ORF1" tvg-name="ORF1" group-title="Germany - גרמניה" tvg-logo="51c9a43e6eb34eb28f0c9046e1558bb9.png",ORF1
+http://localhost:65007/?url=izle/orf-1&mode=12
+
+#EXTINF:-1 tvg-id="ORF2" tvg-name="ORF2" group-title="Germany - גרמניה" tvg-logo="99727a05333cb6ee13dde3cbcaa97c3a.png",ORF2
+http://localhost:65007/?url=ORF2&mode=4
+
+#EXTINF:-1 tvg-id="ORF2" tvg-name="ORF2" group-title="Germany - גרמניה" tvg-logo="99727a05333cb6ee13dde3cbcaa97c3a.png",ORF2
+http://localhost:65007/?url=izle/orf-2&mode=12
+
+#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" group-title="Germany - גרמניה" tvg-logo="523a5dedb6188d05c7f1d128ba7ee2fd.png",ATV
+http://localhost:65007/?url=ATV&mode=4
+
+#EXTINF:-1 tvg-id="SF1" tvg-name="SF1" group-title="Germany - גרמניה" tvg-logo="0dc34234ea1259f7588798b9e694851a.png",SF1
+http://localhost:65007/?url=SF1&mode=4
+
+#EXTINF:-1 tvg-id="SF2" tvg-name="SF2" group-title="Germany - גרמניה" tvg-logo="f815887e18ecf345ad1251b4cadc5625.png",SF2
+http://localhost:65007/?url=SF2&mode=4
+
+#EXTINF:-1 tvg-id="3PLUS" tvg-name="3PLUS" group-title="Germany - גרמניה" tvg-logo="d4f750304b2e55af387d05af246e250d.png",3PLUS
+http://localhost:65007/?url=3PLUS&mode=4
+
+#EXTINF:-1 tvg-id="3PLUS" tvg-name="3PLUS" group-title="Germany - גרמניה" tvg-logo="d4f750304b2e55af387d05af246e250d.png",3PLUS
+http://localhost:65007/?url=izle/3plus&mode=12
+
+#EXTINF:-1 tvg-id="NDR" tvg-name="NDR" group-title="Germany - גרמניה" tvg-logo="1073479449e642449c732d6217c7d01d.png",NDR
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8
+
+#EXTINF:-1 tvg-id="NDR" tvg-name="NDR" group-title="Germany - גרמניה" tvg-logo="1073479449e642449c732d6217c7d01d.png",NDR
+http://localhost:65007/?url=izle/ndr&mode=12
+
+#EXTINF:-1 tvg-id="N24" tvg-name="N24" group-title="Germany - גרמניה" tvg-logo="78ea12e1ed666bca0725a86bfd1c3037.png",N24
+http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream2.m3u8
+
+#EXTINF:-1 tvg-id="N24" tvg-name="N24" group-title="Germany - גרמניה" tvg-logo="78ea12e1ed666bca0725a86bfd1c3037.png",N24
+http://localhost:65007/?url=N24&mode=4
+
+#EXTINF:-1 tvg-id="N24" tvg-name="N24" group-title="Germany - גרמניה" tvg-logo="78ea12e1ed666bca0725a86bfd1c3037.png",N24
+http://localhost:65007/?url=izle/n24&mode=12
+
+#EXTINF:-1 tvg-id="ServusTV" tvg-name="ServusTV" group-title="Germany - גרמניה" tvg-logo="0cb69832081d4bb02a63c2b9445e965e.jpg",ServusTV
+http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-b.m3u8
+
+#EXTINF:-1 tvg-id="E RF" tvg-name="E_RF" group-title="Germany - גרמניה" tvg-logo="",E RF
+rtmp://x2908erfeic14000.f.l.f.lb.core-cdn.net/14000erf pageUrl=http://livetvstreaming.ucoz.com live=1  playpath=live/2908erfeins/live_de_450
+
+#EXTINF:-1 tvg-id="TV AKTUELL" tvg-name="TV_AKTUELL" group-title="Germany - גרמניה" tvg-logo="ef7c73e47ba1e3ef97ad3b6d74a85d94.png",TV AKTUELL
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Suedtirol TV" tvg-name="Suedtirol_TV" group-title="Germany - גרמניה" tvg-logo="",Suedtirol TV
+rtsp://77.72.196.214:8554/live/mp4:SuedtirolTV
+
+#EXTINF:-1 tvg-id="OKTO TV" tvg-name="OKTO_TV" group-title="Germany - גרמניה" tvg-logo="36dfd789a6abf7c45362aa5cee0a824f.jpg",OKTO TV
+http://atwse.lbs.atusmedia.cc:1935/oktolive/okto-low.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Aktuell" tvg-name="TV_Aktuell" group-title="Germany - גרמניה" tvg-logo="",TV Aktuell
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_3/.m3u8
+
+#EXTINF:-1 tvg-id="RBW" tvg-name="RBW" group-title="Germany - גרמניה" tvg-logo="",RBW
+http://62.113.210.250/medienasa-live/rbw_high/bratumarian.m3u8
+
+#EXTINF:-1 tvg-id="RAN 1 Dessau" tvg-name="RAN_1_Dessau" group-title="Germany - גרמניה" tvg-logo="",RAN 1 Dessau
+rtmp://62.113.210.250/medienasa-live/ran1_high
+
+#EXTINF:-1 tvg-id="PUNKTum" tvg-name="PUNKTum" group-title="Germany - גרמניה" tvg-logo="",PUNKTum
+http://62.113.210.250/medienasa-live/punktum_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MDF1" tvg-name="MDF1" group-title="Germany - גרמניה" tvg-logo="",MDF1
+http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RFH" tvg-name="RFH" group-title="Germany - גרמניה" tvg-logo="",RFH
+http://62.113.210.250/medienasa-live/RFH_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="wernigerode" tvg-name="wernigerode" group-title="Germany - גרמניה" tvg-logo="",wernigerode
+http://62.113.210.250/medienasa-live/ok-wernigerode_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="stendal" tvg-name="stendal" group-title="Germany - גרמניה" tvg-logo="",stendal
+http://62.113.210.250/medienasa-live/ok-stendal_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="salzwedel" tvg-name="salzwedel" group-title="Germany - גרמניה" tvg-logo="",salzwedel
+http://62.113.210.250/medienasa-live/ok-salzwedel_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="magdeburg" tvg-name="magdeburg" group-title="Germany - גרמניה" tvg-logo="",magdeburg
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Elbekanal Schรถnebeck" tvg-name="Elbekanal_Schรถnebeck" group-title="Germany - גרמניה" tvg-logo="",Elbekanal Schรถnebeck
+rtmp://62.113.210.250/medienasa-live/elbe_high
+
+#EXTINF:-1 tvg-id="Halle TV" tvg-name="Halle_TV" group-title="Germany - גרמניה" tvg-logo="",Halle TV
+rtmp://62.113.210.250/medienasa-live/tvhalle_high
+
+#EXTINF:-1 tvg-id="Family TV" tvg-name="Family_TV" group-title="Germany - גרמניה" tvg-logo="",Family TV
+rtmp://83.169.58.36/live/Stream3
+
+#EXTINF:-1 tvg-id="BW Family TV" tvg-name="BW_Family_TV" group-title="Germany - גרמניה" tvg-logo="",BW Family TV
+rtmp://live.bwfamily.tv:1935/rtplive/vlc.sdp
+
+#EXTINF:-1 tvg-id="Filstalwelle" tvg-name="Filstalwelle" group-title="Germany - גרמניה" tvg-logo="",Filstalwelle
+rtmp://62.113.210.27/filstalwelle-live/livestream
+
+#EXTINF:-1 tvg-id="Juwelo TV" tvg-name="Juwelo_TV" group-title="Germany - גרמניה" tvg-logo="",Juwelo TV
+rtmp://85.214.107.68/juwelo_hd/live_DE1
+
+#EXTINF:-1 tvg-id="Light Channel TV Deutschland" tvg-name="Light_Channel_TV_Deutschland" group-title="Germany - גרמניה" tvg-logo="",Light Channel TV Deutschland
+rtsp://streamer1.streamhost.org:1935/salive/lctvde
+
+#EXTINF:-1 tvg-id="NOA4 Hamburg" tvg-name="NOA4_Hamburg" group-title="Germany - גרמניה" tvg-logo="",NOA4 Hamburg
+mms://wt-wm1.wtnet.de/noa4hh-stream-mid?.wma
+
+#EXTINF:-1 tvg-id="SRF1" tvg-name="SRF1" group-title="Germany - גרמניה" tvg-logo="f14aded8ef3fcdbe9664b03b3ecdf088.png",SRF1
+http://localhost:65007/?url=ch/14&mode=9
+
+#EXTINF:-1 tvg-id="SRF1" tvg-name="SRF1" group-title="Germany - גרמניה" tvg-logo="f14aded8ef3fcdbe9664b03b3ecdf088.png",SRF1
+http://localhost:65007/?url=izle/srf-1&mode=12
+
+#EXTINF:-1 tvg-id="SRF Zwei" tvg-name="SRF_Zwei" group-title="Germany - גרמניה" tvg-logo="0a4c9db334f306cf261e1e85bb504bb4.jpg",SRF Zwei
+http://localhost:65007/?url=ch/5&mode=9
+
+#EXTINF:-1 tvg-id="ATV turk" tvg-name="ATV_turk" group-title="Turkey - טורקיה" tvg-logo="165f49064e3def81c81264d4fce51d17.jpg",ATV turk
+http://localhost:65007/?url=izle/atv&mode=12
+
+#EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal_D" group-title="Turkey - טורקיה" tvg-logo="",Kanal D
+http://localhost:65007/?url=izle/kanal-d&mode=12
+
+#EXTINF:-1 tvg-id="KANAL E" tvg-name="KANAL_E" group-title="Turkey - טורקיה" tvg-logo="",KANAL E
+rtmp://yayin.tvdunyasi.tv/live/elazig_kanale
+
+#EXTINF:-1 tvg-id="KANAL F" tvg-name="KANAL_F" group-title="Turkey - טורקיה" tvg-logo="",KANAL F
+rtmp://stream.taksimbilisim.com/kanalf/bant1
+
+#EXTINF:-1 tvg-id="star tv" tvg-name="star_tv" group-title="Turkey - טורקיה" tvg-logo="",star tv
+http://localhost:65007/?url=izle/star-tv-canli-yayin-izle&mode=12
+
+#EXTINF:-1 tvg-id="show hd" tvg-name="show_hd" group-title="Turkey - טורקיה" tvg-logo="",show hd
+http://localhost:65007/?url=izle/show-tv&mode=12
+
+#EXTINF:-1 tvg-id="TRT1" tvg-name="TRT1" group-title="Turkey - טורקיה" tvg-logo="",TRT1
+http://localhost:65007/?url=izle/trt-1&mode=12
+
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" group-title="Turkey - טורקיה" tvg-logo="",FOX
+http://localhost:65007/?url=izle/fox-tv&mode=12
+
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="Turkey - טורקיה" tvg-logo="",TV8
+http://localhost:65007/?url=izle/tv8&mode=12
+
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" group-title="Turkey - טורקיה" tvg-logo="",NTV
+http://localhost:65007/?url=izle/ntv-izle&mode=12
+
+#EXTINF:-1 tvg-id="CNN TURK" tvg-name="CNN_TURK" group-title="Turkey - טורקיה" tvg-logo="",CNN TURK
+http://localhost:65007/?url=izle/cnn-turk&mode=12
+
+#EXTINF:-1 tvg-id="KANAL 7" tvg-name="KANAL_7" group-title="Turkey - טורקיה" tvg-logo="",KANAL 7
+http://localhost:65007/?url=izle/kanal-7&mode=12
+
+#EXTINF:-1 tvg-id="KANAL 24 (24 tv)" tvg-name="KANAL_24_(24_tv)" group-title="Turkey - טורקיה" tvg-logo="",KANAL 24 (24 tv)
+http://localhost:65007/?url=izle/kanal-24&mode=12
+
+#EXTINF:-1 tvg-id="kanal turk" tvg-name="kanal_turk" group-title="Turkey - טורקיה" tvg-logo="",kanal turk
+http://localhost:65007/?url=izle/kanal-turk&mode=12
+
+#EXTINF:-1 tvg-id="STV (Samanyolu TV)" tvg-name="STV_(Samanyolu_TV)" group-title="Turkey - טורקיה" tvg-logo="",STV (Samanyolu TV)
+http://localhost:65007/?url=izle/stv&mode=12
+
+#EXTINF:-1 tvg-id="e2" tvg-name="e2" group-title="Turkey - טורקיה" tvg-logo="",e2
+http://localhost:65007/?url=izle/e2-canli-yayin-izle&mode=12
+
+#EXTINF:-1 tvg-id="tv2" tvg-name="tv2" group-title="Turkey - טורקיה" tvg-logo="",tv2
+http://localhost:65007/?url=izle/tv2&mode=12
+
+#EXTINF:-1 tvg-id="flash tv" tvg-name="flash_tv" group-title="Turkey - טורקיה" tvg-logo="",flash tv
+http://localhost:65007/?url=izle/flash-tv&mode=12
+
+#EXTINF:-1 tvg-id="kanal a" tvg-name="kanal_a" group-title="Turkey - טורקיה" tvg-logo="",kanal a
+http://localhost:65007/?url=izle/kanal-a&mode=12
+
+#EXTINF:-1 tvg-id="trt hd" tvg-name="trt_hd" group-title="Turkey - טורקיה" tvg-logo="",trt hd
+http://localhost:65007/?url=izle/trt-hd&mode=12
+
+#EXTINF:-1 tvg-id="tv net" tvg-name="tv_net" group-title="Turkey - טורקיה" tvg-logo="",tv net
+http://localhost:65007/?url=izle/tv-net&mode=12
+
+#EXTINF:-1 tvg-id="bugun tv" tvg-name="bugun_tv" group-title="Turkey - טורקיה" tvg-logo="",bugun tv
+http://localhost:65007/?url=izle/bugun-tv&mode=12
+
+#EXTINF:-1 tvg-id="halk tv" tvg-name="halk_tv" group-title="Turkey - טורקיה" tvg-logo="",halk tv
+http://localhost:65007/?url=izle/halk-tv&mode=12
+
+#EXTINF:-1 tvg-id="beyaz tv" tvg-name="beyaz_tv" group-title="Turkey - טורקיה" tvg-logo="",beyaz tv
+http://localhost:65007/?url=izle/beyaz-tv&mode=12
+
+#EXTINF:-1 tvg-id="tvem" tvg-name="tvem" group-title="Turkey - טורקיה" tvg-logo="",tvem
+http://localhost:65007/?url=izle/tvem&mode=12
+
+#EXTINF:-1 tvg-id="cem tv" tvg-name="cem_tv" group-title="Turkey - טורקיה" tvg-logo="",cem tv
+http://localhost:65007/?url=izle/cem-tv&mode=12
+
+#EXTINF:-1 tvg-id="cine 5" tvg-name="cine_5" group-title="Turkey - טורקיה" tvg-logo="",cine 5
+http://localhost:65007/?url=izle/cine5&mode=12
+
+#EXTINF:-1 tvg-id="trt okul" tvg-name="trt_okul" group-title="Turkey - טורקיה" tvg-logo="",trt okul
+http://localhost:65007/?url=izle/trt-okul&mode=12
+
+#EXTINF:-1 tvg-id="trt arapca" tvg-name="trt_arapca" group-title="Turkey - טורקיה" tvg-logo="",trt arapca
+http://localhost:65007/?url=izle/trt-arapca&mode=12
+
+#EXTINF:-1 tvg-id="TRT 6 (TRT Kurdi)" tvg-name="TRT_6_(TRT_Kurdi)" group-title="Turkey - טורקיה" tvg-logo="",TRT 6 (TRT Kurdi)
+http://localhost:65007/?url=izle/trt-6&mode=12
+
+#EXTINF:-1 tvg-id="TV5" tvg-name="TV5" group-title="Turkey - טורקיה" tvg-logo="",TV5
+http://localhost:65007/?url=izle/tv5&mode=12
+
+#EXTINF:-1 tvg-id="meltem tv" tvg-name="meltem_tv" group-title="Turkey - טורקיה" tvg-logo="",meltem tv
+http://localhost:65007/?url=izle/meltem-tv&mode=12
+
+#EXTINF:-1 tvg-id="mehtap tv" tvg-name="mehtap_tv" group-title="Turkey - טורקיה" tvg-logo="",mehtap tv
+http://localhost:65007/?url=izle/mehtap-tv&mode=12
+
+#EXTINF:-1 tvg-id="ntv spor" tvg-name="ntv_spor" group-title="Turkey - טורקיה" tvg-logo="",ntv spor
+http://localhost:65007/?url=izle/ntv-spor&mode=12
+
+#EXTINF:-1 tvg-id="a haber" tvg-name="a_haber" group-title="Turkey - טורקיה" tvg-logo="",a haber
+http://localhost:65007/?url=izle/a-haber&mode=12
+
+#EXTINF:-1 tvg-id="haberturk" tvg-name="haberturk" group-title="Turkey - טורקיה" tvg-logo="",haberturk
+http://localhost:65007/?url=izle/haber-turk&mode=12
+
+#EXTINF:-1 tvg-id="360 TV (SKY Turk)" tvg-name="360_TV_(SKY_Turk)" group-title="Turkey - טורקיה" tvg-logo="",360 TV (SKY Turk)
+http://localhost:65007/?url=izle/sky-turk&mode=12
+
+#EXTINF:-1 tvg-id="trt haber" tvg-name="trt_haber" group-title="Turkey - טורקיה" tvg-logo="",trt haber
+http://localhost:65007/?url=izle/trt-haber&mode=12
+
+#EXTINF:-1 tvg-id="tgrt haber" tvg-name="tgrt_haber" group-title="Turkey - טורקיה" tvg-logo="",tgrt haber
+http://localhost:65007/?url=izle/tgrt-haber&mode=12
+
+#EXTINF:-1 tvg-id="ulusal kanal" tvg-name="ulusal_kanal" group-title="Turkey - טורקיה" tvg-logo="",ulusal kanal
+http://localhost:65007/?url=izle/ulusal-kanal&mode=12
+
+#EXTINF:-1 tvg-id="ulke tv" tvg-name="ulke_tv" group-title="Turkey - טורקיה" tvg-logo="",ulke tv
+http://localhost:65007/?url=izle/ulke-tv&mode=12
+
+#EXTINF:-1 tvg-id="imc tv" tvg-name="imc_tv" group-title="Turkey - טורקיה" tvg-logo="",imc tv
+http://localhost:65007/?url=izle/imc-tv&mode=12
+
+#EXTINF:-1 tvg-id="samanyolu haber" tvg-name="samanyolu_haber" group-title="Turkey - טורקיה" tvg-logo="",samanyolu haber
+http://localhost:65007/?url=izle/samanyolu-haber&mode=12
+
+#EXTINF:-1 tvg-id="bloomberg ht" tvg-name="bloomberg_ht" group-title="Turkey - טורקיה" tvg-logo="",bloomberg ht
+http://localhost:65007/?url=izle/bloomberg-ht&mode=12
+
+#EXTINF:-1 tvg-id="trt 3 spor" tvg-name="trt_3_spor" group-title="Turkey - טורקיה" tvg-logo="",trt 3 spor
+http://localhost:65007/?url=izle/trt-3-spor&mode=12
+
+#EXTINF:-1 tvg-id="a spor" tvg-name="a_spor" group-title="Turkey - טורקיה" tvg-logo="",a spor
+http://localhost:65007/?url=izle/a-spor&mode=12
+
+#EXTINF:-1 tvg-id="tjk tv" tvg-name="tjk_tv" group-title="Turkey - טורקיה" tvg-logo="",tjk tv
+http://localhost:65007/?url=izle/tjk-tv&mode=12
+
+#EXTINF:-1 tvg-id="fb tv" tvg-name="fb_tv" group-title="Turkey - טורקיה" tvg-logo="",fb tv
+http://localhost:65007/?url=izle/fb-tv&mode=12
+
+#EXTINF:-1 tvg-id="sports tv" tvg-name="sports_tv" group-title="Turkey - טורקיה" tvg-logo="27b850bfe8ee38b1a7ab75583ddb68ea.png",sports tv
+http://localhost:65007/?url=izle/sports-tv&mode=12
+
+#EXTINF:-1 tvg-id="bursaspor tv" tvg-name="bursaspor_tv" group-title="Turkey - טורקיה" tvg-logo="e0293923bb0b8c502ad3f9dc53fc2af9.png",bursaspor tv
+http://localhost:65007/?url=izle/bursaspor-tv&mode=12
+
+#EXTINF:-1 tvg-id="tay tv" tvg-name="tay_tv" group-title="Turkey - טורקיה" tvg-logo="",tay tv
+http://localhost:65007/?url=izle/tay-tv&mode=12
+
+#EXTINF:-1 tvg-id="Idman TV (Idman Azerbaycan TV)" tvg-name="Idman_TV_(Idman_Azerbaycan_TV)" group-title="Turkey - טורקיה" tvg-logo="",Idman TV (Idman Azerbaycan TV)
+http://localhost:65007/?url=izle/idman-tv&mode=12
+
+#EXTINF:-1 tvg-id="trt cocuk" tvg-name="trt_cocuk" group-title="Turkey - טורקיה" tvg-logo="",trt cocuk
+http://localhost:65007/?url=izle/trt-cocuk&mode=12
+
+#EXTINF:-1 tvg-id="cartoon network" tvg-name="cartoon_network" group-title="Turkey - טורקיה" tvg-logo="bb7cf841725a21aca69d569c12334635.png",cartoon network
+http://localhost:65007/?url=izle/cartoon-network&mode=12
+
+#EXTINF:-1 tvg-id="minika go" tvg-name="minika_go" group-title="Turkey - טורקיה" tvg-logo="7d319efb9fd2c88c39afeb69e45c8806.png",minika go
+http://localhost:65007/?url=izle/minika-go&mode=12
+
+#EXTINF:-1 tvg-id="minika cocuk" tvg-name="minika_cocuk" group-title="Turkey - טורקיה" tvg-logo="9663dd72408ee3a8873857754c959c2a.png",minika cocuk
+http://localhost:65007/?url=izle/minika-cocuk&mode=12
+
+#EXTINF:-1 tvg-id="yumurcak tv" tvg-name="yumurcak_tv" group-title="Turkey - טורקיה" tvg-logo="7ea34a1bd862049d600e2d794c8a2bbb.png",yumurcak tv
+http://localhost:65007/?url=izle/yumurcak-tv&mode=12
+
+#EXTINF:-1 tvg-id="disney channel" tvg-name="disney_channel" group-title="Turkey - טורקיה" tvg-logo="75914743765ed84b9d501480ad3d86ef.png",disney channel
+http://localhost:65007/?url=izle/disney-channel&mode=12
+
+#EXTINF:-1 tvg-id="planet cocuk" tvg-name="planet_cocuk" group-title="Turkey - טורקיה" tvg-logo="",planet cocuk
+http://localhost:65007/?url=izle/planet-cocuk&mode=12
+
+#EXTINF:-1 tvg-id="trt muzik" tvg-name="trt_muzik" group-title="Turkey - טורקיה" tvg-logo="",trt muzik
+http://localhost:65007/?url=izle/trt-muzik&mode=12
+
+#EXTINF:-1 tvg-id="kral tv canli" tvg-name="kral_tv_canli" group-title="Turkey - טורקיה" tvg-logo="",kral tv canli
+http://localhost:65007/?url=izle/kral-tv-canli&mode=12
+
+#EXTINF:-1 tvg-id="kral pop canli" tvg-name="kral_pop_canli" group-title="Turkey - טורקיה" tvg-logo="",kral pop canli
+http://localhost:65007/?url=izle/kral-pop-canli&mode=12
+
+#EXTINF:-1 tvg-id="dream tv" tvg-name="dream_tv" group-title="Turkey - טורקיה" tvg-logo="",dream tv
+http://localhost:65007/?url=izle/dream-tv&mode=12
+
+#EXTINF:-1 tvg-id="dream turk" tvg-name="dream_turk" group-title="Turkey - טורקיה" tvg-logo="",dream turk
+http://localhost:65007/?url=izle/dream-turk&mode=12
+
+#EXTINF:-1 tvg-id="nr1" tvg-name="nr1" group-title="Turkey - טורקיה" tvg-logo="",nr1
+http://localhost:65007/?url=izle/nr1&mode=12
+
+#EXTINF:-1 tvg-id="planet turk" tvg-name="planet_turk" group-title="Turkey - טורקיה" tvg-logo="",planet turk
+http://localhost:65007/?url=izle/planet-turk&mode=12
+
+#EXTINF:-1 tvg-id="planet pembe" tvg-name="planet_pembe" group-title="Turkey - טורקיה" tvg-logo="",planet pembe
+http://localhost:65007/?url=izle/planet-pembe&mode=12
+
+#EXTINF:-1 tvg-id="trt belgesel" tvg-name="trt_belgesel" group-title="Turkey - טורקיה" tvg-logo="",trt belgesel
+http://localhost:65007/?url=izle/trt-belgesel&mode=12
+
+#EXTINF:-1 tvg-id="tgrt belgesel" tvg-name="tgrt_belgesel" group-title="Turkey - טורקיה" tvg-logo="",tgrt belgesel
+http://localhost:65007/?url=izle/tgrt-belgesel&mode=12
+
+#EXTINF:-1 tvg-id="world travel" tvg-name="world_travel" group-title="Turkey - טורקיה" tvg-logo="",world travel
+http://localhost:65007/?url=izle/world-travel&mode=12
+
+#EXTINF:-1 tvg-id="yaban tv" tvg-name="yaban_tv" group-title="Turkey - טורקיה" tvg-logo="",yaban tv
+http://localhost:65007/?url=izle/yaban-tv&mode=12
+
+#EXTINF:-1 tvg-id="akilli tv" tvg-name="akilli_tv" group-title="Turkey - טורקיה" tvg-logo="",akilli tv
+http://localhost:65007/?url=izle/akilli-tv&mode=12
+
+#EXTINF:-1 tvg-id="vuslat tv" tvg-name="vuslat_tv" group-title="Turkey - טורקיה" tvg-logo="",vuslat tv
+http://localhost:65007/?url=izle/vuslat-tv&mode=12
+
+#EXTINF:-1 tvg-id="ege tv" tvg-name="ege_tv" group-title="Turkey - טורקיה" tvg-logo="",ege tv
+http://localhost:65007/?url=izle/ege-tv&mode=12
+
+#EXTINF:-1 tvg-id="olay tv" tvg-name="olay_tv" group-title="Turkey - טורקיה" tvg-logo="",olay tv
+http://localhost:65007/?url=izle/olay-tv&mode=12
+
+#EXTINF:-1 tvg-id="trt diyanet" tvg-name="trt_diyanet" group-title="Turkey - טורקיה" tvg-logo="",trt diyanet
+http://localhost:65007/?url=izle/trt-diyanet&mode=12
+
+#EXTINF:-1 tvg-id="dost tv" tvg-name="dost_tv" group-title="Turkey - טורקיה" tvg-logo="",dost tv
+http://localhost:65007/?url=izle/dost-tv&mode=12
+
+#EXTINF:-1 tvg-id="lalegul tv" tvg-name="lalegul_tv" group-title="Turkey - טורקיה" tvg-logo="",lalegul tv
+http://localhost:65007/?url=izle/lalegul-tv&mode=12
+
+#EXTINF:-1 tvg-id="semerkand tv" tvg-name="semerkand_tv" group-title="Turkey - טורקיה" tvg-logo="",semerkand tv
+http://localhost:65007/?url=izle/semerkand-tv&mode=12
+
+#EXTINF:-1 tvg-id="CNBC-e" tvg-name="CNBC-e" group-title="Turkey - טורקיה" tvg-logo="c4a3435766f62d6fe10969f11c843aec.png",CNBC-e
+http://localhost:65007/?url=izle/cnbc-e-canli-yayin-izle&mode=12
+
+#EXTINF:-1 tvg-id="yol tv" tvg-name="yol_tv" group-title="Turkey - טורקיה" tvg-logo="",yol tv
+http://localhost:65007/?url=izle/yol-tv&mode=12
+
+#EXTINF:-1 tvg-id="Atlas Ordu TV" tvg-name="Atlas_Ordu_TV" group-title="Turkey - טורקיה" tvg-logo="bc975d4089a7ac45c00031cb7afea362.jpg",Atlas Ordu TV
+http://localhost:65007/?url=209&mode=6
+
+#EXTINF:-1 tvg-id="Bengu Turk" tvg-name="Bengu_Turk" group-title="Turkey - טורקיה" tvg-logo="",Bengu Turk
+http://localhost:65007/?url=230&mode=6
+
+#EXTINF:-1 tvg-id="Bursa AS TV" tvg-name="Bursa_AS_TV" group-title="Turkey - טורקיה" tvg-logo="2c2150f19660c5de48ae540a9cc5510a.jpg",Bursa AS TV
+http://localhost:65007/?url=211&mode=6
+
+#EXTINF:-1 tvg-id="EM TV" tvg-name="EM_TV" group-title="Turkey - טורקיה" tvg-logo="74ff86b6438efa11ef338dbf95ed59cb.jpg",EM TV
+http://localhost:65007/?url=208&mode=6
+
+#EXTINF:-1 tvg-id="Euro D" tvg-name="Euro_D" group-title="Turkey - טורקיה" tvg-logo="",Euro D
+http://localhost:65007/?url=164&mode=6
+
+#EXTINF:-1 tvg-id="FB TV" tvg-name="FB_TV" group-title="Turkey - טורקיה" tvg-logo="dab315b9bb5eafd1e9609fe5347362ed.jpg",FB TV
+http://localhost:65007/?url=210&mode=6
+
+#EXTINF:-1 tvg-id="Halk TV" tvg-name="Halk_TV" group-title="Turkey - טורקיה" tvg-logo="9e2617d05493e3c6953e16e1d72f1098.jpg",Halk TV
+http://localhost:65007/?url=228&mode=6
+
+#EXTINF:-1 tvg-id="Irmak TV" tvg-name="Irmak_TV" group-title="Turkey - טורקיה" tvg-logo="",Irmak TV
+http://localhost:65007/?url=342&mode=6
+
+#EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal_7" group-title="Turkey - טורקיה" tvg-logo="b94ff8107d09bf3c90b6308474b92e38.jpg",Kanal 7
+http://localhost:65007/?url=199&mode=6
+
+#EXTINF:-1 tvg-id="Kral POP" tvg-name="Kral_POP" group-title="Turkey - טורקיה" tvg-logo="51388beb0c3b0cb39a3a93e3d59b2282.png",Kral POP
+http://localhost:65007/?url=84&mode=6
+
+#EXTINF:-1 tvg-id="KRAL TV" tvg-name="KRAL_TV" group-title="Turkey - טורקיה" tvg-logo="",KRAL TV
+http://localhost:65007/?url=395&mode=6
+
+#EXTINF:-1 tvg-id="Mehtap TV" tvg-name="Mehtap_TV" group-title="Turkey - טורקיה" tvg-logo="",Mehtap TV
+http://localhost:65007/?url=340&mode=6
+
+#EXTINF:-1 tvg-id="Muzik Turk" tvg-name="Muzik_Turk" group-title="Turkey - טורקיה" tvg-logo="2ea6b7dc9a9a109643667ff9b6e61f01.jpg",Muzik Turk
+http://localhost:65007/?url=172&mode=6
+
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" group-title="Turkey - טורקיה" tvg-logo="89367ac8d59fe21c1956861ef2f74978.png",NTV
+http://localhost:65007/?url=131&mode=6
+
+#EXTINF:-1 tvg-id="Planet Cocuk" tvg-name="Planet_Cocuk" group-title="Turkey - טורקיה" tvg-logo="24e04240b2c0c7c82ce2d8d1abfcfe44.jpg",Planet Cocuk
+http://localhost:65007/?url=175&mode=6
+
+#EXTINF:-1 tvg-id="Planet Mutfak" tvg-name="Planet_Mutfak" group-title="Turkey - טורקיה" tvg-logo="a8f49cd97d129532393dba07962562af.png",Planet Mutfak
+http://localhost:65007/?url=177&mode=6
+
+#EXTINF:-1 tvg-id="Planet Pembe" tvg-name="Planet_Pembe" group-title="Turkey - טורקיה" tvg-logo="6166482180420009347be9de052120ef.jpg",Planet Pembe
+http://localhost:65007/?url=176&mode=6
+
+#EXTINF:-1 tvg-id="Planet Turk" tvg-name="Planet_Turk" group-title="Turkey - טורקיה" tvg-logo="74667ef6c111b2c9ae2372185ee2a9d5.jpg",Planet Turk
+http://localhost:65007/?url=178&mode=6
+
+#EXTINF:-1 tvg-id="Samanyolu TV" tvg-name="Samanyolu_TV" group-title="Turkey - טורקיה" tvg-logo="6e54ff670bbad83d64f26965f7875a8f.png",Samanyolu TV
+http://localhost:65007/?url=48&mode=6
+
+#EXTINF:-1 tvg-id="Show TV" tvg-name="Show_TV" group-title="Turkey - טורקיה" tvg-logo="96195cffeaf1857da2ace6d64e78252a.gif",Show TV
+http://localhost:65007/?url=96&mode=6
+
+#EXTINF:-1 tvg-id="Sports TV" tvg-name="Sports_TV" group-title="Turkey - טורקיה" tvg-logo="f76d1cd536a2efeae0e9334cab77bf71.jpg",Sports TV
+http://localhost:65007/?url=215&mode=6
+
+#EXTINF:-1 tvg-id="TRT Cocuk" tvg-name="TRT_Cocuk" group-title="Turkey - טורקיה" tvg-logo="3b60f3ffdd0627ae20f6e3a1f5d62a08.png",TRT Cocuk
+http://localhost:65007/?url=50&mode=6
+
+#EXTINF:-1 tvg-id="TRT Haber" tvg-name="TRT_Haber" group-title="Turkey - טורקיה" tvg-logo="0fcecee5723ff63f5f52ea328aba20d2.png",TRT Haber
+http://localhost:65007/?url=196&mode=6
+
+#EXTINF:-1 tvg-id="TRT Music" tvg-name="TRT_Music" group-title="Turkey - טורקיה" tvg-logo="77e32eab212c425fc5a83e35152c1aec.jpg",TRT Music
+http://localhost:65007/?url=49&mode=6
+
+#EXTINF:-1 tvg-id="TRT Spor" tvg-name="TRT_Spor" group-title="Turkey - טורקיה" tvg-logo="dabe1fd4c9922817735268f39531f436.png",TRT Spor
+http://localhost:65007/?url=194&mode=6
+
+#EXTINF:-1 tvg-id="TRT turk" tvg-name="TRT_turk" group-title="Turkey - טורקיה" tvg-logo="dabe1fd4c9922817735268f39531f436.png",TRT turk
+http://localhost:65007/?url=194;;trtturk&mode=6
+
+#EXTINF:-1 tvg-id="TV 2" tvg-name="TV_2" group-title="Turkey - טורקיה" tvg-logo="b2a72f549eb86ea1fbbd5fae8774ac67.jpg",TV 2
+http://localhost:65007/?url=173&mode=6
+
+#EXTINF:-1 tvg-id="Ulke TV" tvg-name="Ulke_TV" group-title="Turkey - טורקיה" tvg-logo="e57f18bced37de3f4bfa9b10f5ee223c.png",Ulke TV
+http://localhost:65007/?url=200&mode=6
+
+#EXTINF:-1 tvg-id="Ulusal Kanal" tvg-name="Ulusal_Kanal" group-title="Turkey - טורקיה" tvg-logo="",Ulusal Kanal
+http://localhost:65007/?url=231&mode=6
+
+#EXTINF:-1 tvg-id="world travel channel" tvg-name="world_travel_channel" group-title="Turkey - טורקיה" tvg-logo="",world travel channel
+http://localhost:65007/?url=198&mode=6
+
+#EXTINF:-1 tvg-id="Yumurcak TV" tvg-name="Yumurcak_TV" group-title="Turkey - טורקיה" tvg-logo="",Yumurcak TV
+http://localhost:65007/?url=339&mode=6
+
+#EXTINF:-1 tvg-id="TRT1HD" tvg-name="TRT1HD" group-title="Turkey - טורקיה" tvg-logo="f5666bbef4b04aaa1505f658011af012.png",TRT1HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+
+#EXTINF:-1 tvg-id="TRT ARAPCA" tvg-name="TRT_ARAPCA" group-title="Turkey - טורקיה" tvg-logo="",TRT ARAPCA
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+
+#EXTINF:-1 tvg-id="TRT HD" tvg-name="TRT_HD" group-title="Turkey - טורקיה" tvg-logo="",TRT HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
+
+#EXTINF:-1 tvg-id="HABER TURK" tvg-name="HABER_TURK" group-title="Turkey - טורקיה" tvg-logo="f440575a2cfa3a1d685c327eceff46b0.jpg",HABER TURK
+http://strm-i.glb.pr.medianova.tv:1935/haberturk/haberturk2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kanal 3" tvg-name="Kanal_3" group-title="Turkey - טורקיה" tvg-logo="f0b882b5992011d83ffdd7df92b6a191.jpg",Kanal 3
+rtmp://stream.taksimbilisim.com/kanal3/bant1
+
+#EXTINF:-1 tvg-id="Kanal 55" tvg-name="Kanal_55" group-title="Turkey - טורקיה" tvg-logo="d23e03db1b6481b4ab160a2f8dd3ec63.png",Kanal 55
+rtmp://stream.taksimbilisim.com/kanal55/bant1
+
+#EXTINF:-1 tvg-id="TRT Belgesel" tvg-name="TRT_Belgesel" group-title="Turkey - טורקיה" tvg-logo="c49a810e9bee881b9c611cbef1eee8f4.jpg",TRT Belgesel
+rtmp://si.trtcdn.com/tv/trtbelgesel/mp4:trtbelgesel_3
+
+#EXTINF:-1 tvg-id="TV 1" tvg-name="TV_1" group-title="Turkey - טורקיה" tvg-logo="9fbf907e22ba39eb008cff02aabeccce.jpg",TV 1
+rtmp://stream.taksimbilisim.com:1935/tv1/bant1
+
+#EXTINF:-1 tvg-id="TV 5" tvg-name="TV_5" group-title="Turkey - טורקיה" tvg-logo="c6b183d9fb9697dd88c4dbed6b42c4af.jpg",TV 5
+mmsh://yayin3.canliyayin.org/tv5
+
+#EXTINF:-1 tvg-id="AY TV" tvg-name="AY_TV" group-title="Turkey - טורקיה" tvg-logo="",AY TV
+http://stream.taksimbilisim.com:1935/aytv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BRT TV 1" tvg-name="BRT_TV_1" group-title="Turkey - טורקיה" tvg-logo="",BRT TV 1
+mms://bms.brtk.net/brttv
+
+#EXTINF:-1 tvg-id="BRT TV 2" tvg-name="BRT_TV_2" group-title="Turkey - טורקיה" tvg-logo="",BRT TV 2
+mms://bms.brtk.net/brt2
+
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" group-title="Turkey - טורקיה" tvg-logo="",BTV
+rtmp://stream.taksimbilisim.com/btv/bant1
+
+#EXTINF:-1 tvg-id="turkmenelitv" tvg-name="turkmenelitv" group-title="Turkey - טורקיה" tvg-logo="",turkmenelitv
+mms://213.142.142.213/turkmenelitv
+
+#EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal_7" group-title="Turkey - טורקיה" tvg-logo="",Kanal 7
+http://livetr.gostream.nl/kanal7hq/kanal7hq/chunklist_w1106540671.m3u8
+
+#EXTINF:-1 tvg-id="TRT turk" tvg-name="TRT_turk" group-title="Turkey - טורקיה" tvg-logo="dabe1fd4c9922817735268f39531f436.png",TRT turk
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+
+#EXTINF:-1 tvg-id="TRT Music" tvg-name="TRT_Music" group-title="Turkey - טורקיה" tvg-logo="77e32eab212c425fc5a83e35152c1aec.jpg",TRT Music
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+
+#EXTINF:-1 tvg-id="TRT Haber" tvg-name="TRT_Haber" group-title="Turkey - טורקיה" tvg-logo="0fcecee5723ff63f5f52ea328aba20d2.png",TRT Haber
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+
+#EXTINF:-1 tvg-id="TRT Cocuk" tvg-name="TRT_Cocuk" group-title="Turkey - טורקיה" tvg-logo="3b60f3ffdd0627ae20f6e3a1f5d62a08.png",TRT Cocuk
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+
+#EXTINF:-1 tvg-id="cnbce" tvg-name="cnbce" group-title="Turkey - טורקיה" tvg-logo="",cnbce
+http://yayin3.canlitv.com.tr:1935/live/cnbce/chunklist_w583941153.m3u8
+
+#EXTINF:-1 tvg-id="CNN TURK" tvg-name="CNN_TURK" group-title="Turkey - טורקיה" tvg-logo="",CNN TURK
+http://212.224.109.101/S1/HLS_LIVE/cnn_turk/500/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="TRT 1 HD" tvg-name="TRT_1_HD" group-title="Turkey - טורקיה" tvg-logo="",TRT 1 HD
+http://localhost:65007/?url=trt1&mode=26
+
+#EXTINF:-1 tvg-id="TRT WORLD" tvg-name="TRT_WORLD" group-title="Turkey - טורקיה" tvg-logo="",TRT WORLD
+http://localhost:65007/?url=trtworld&mode=26
+
+#EXTINF:-1 tvg-id="TRT HABER HD" tvg-name="TRT_HABER_HD" group-title="Turkey - טורקיה" tvg-logo="",TRT HABER HD
+http://localhost:65007/?url=trthaber&mode=26
+
+#EXTINF:-1 tvg-id="TRT SPOR HD" tvg-name="TRT_SPOR_HD" group-title="Turkey - טורקיה" tvg-logo="",TRT SPOR HD
+http://localhost:65007/?url=trtspor&mode=26
+
+#EXTINF:-1 tvg-id="TRT COCUK" tvg-name="TRT_COCUK" group-title="Turkey - טורקיה" tvg-logo="",TRT COCUK
+http://localhost:65007/?url=trtcocuk&mode=26
+
+#EXTINF:-1 tvg-id="TRT TURK" tvg-name="TRT_TURK" group-title="Turkey - טורקיה" tvg-logo="",TRT TURK
+http://localhost:65007/?url=trtturk&mode=26
+
+#EXTINF:-1 tvg-id="TRT AVAZ" tvg-name="TRT_AVAZ" group-title="Turkey - טורקיה" tvg-logo="",TRT AVAZ
+http://localhost:65007/?url=trtavaz&mode=26
+
+#EXTINF:-1 tvg-id="TRT DIYANET" tvg-name="TRT_DIYANET" group-title="Turkey - טורקיה" tvg-logo="",TRT DIYANET
+http://localhost:65007/?url=trtdiyanet&mode=26
+
+#EXTINF:-1 tvg-id="TRT KURDI" tvg-name="TRT_KURDI" group-title="Turkey - טורקיה" tvg-logo="",TRT KURDI
+http://localhost:65007/?url=trt6&mode=26
+
+#EXTINF:-1 tvg-id="TRT KURDI (TR-ZAZ)" tvg-name="TRT_KURDI_(TR-ZAZ)" group-title="Turkey - טורקיה" tvg-logo="",TRT KURDI (TR-ZAZ)
+http://localhost:65007/?url=tv6tr&mode=26
+
+#EXTINF:-1 tvg-id="TRT BELGESEL" tvg-name="TRT_BELGESEL" group-title="Turkey - טורקיה" tvg-logo="",TRT BELGESEL
+http://localhost:65007/?url=trtbelgesel&mode=26
+
+#EXTINF:-1 tvg-id="TRT OKUL" tvg-name="TRT_OKUL" group-title="Turkey - טורקיה" tvg-logo="",TRT OKUL
+http://localhost:65007/?url=trtokul&mode=26
+
+#EXTINF:-1 tvg-id="TRT MUZIK" tvg-name="TRT_MUZIK" group-title="Turkey - טורקיה" tvg-logo="",TRT MUZIK
+http://localhost:65007/?url=trtmuzik&mode=26
+
+#EXTINF:-1 tvg-id="TRT ARAPCA" tvg-name="TRT_ARAPCA" group-title="Turkey - טורקיה" tvg-logo="",TRT ARAPCA
+http://localhost:65007/?url=trtarapca&mode=26
+
+#EXTINF:-1 tvg-id="TRT HD" tvg-name="TRT_HD" group-title="Turkey - טורקיה" tvg-logo="",TRT HD
+http://localhost:65007/?url=trthd&mode=26
+
+#EXTINF:-1 tvg-id="TRT 3 - TBMM TV" tvg-name="TRT_3_-_TBMM_TV" group-title="Turkey - טורקיה" tvg-logo="",TRT 3 - TBMM TV
+http://localhost:65007/?url=trt3tbmmtv&mode=26
+#EXTINF:-1,[COLOR green]--- WORLD CHANNELS ---[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1,[COLOR yellow]--By tutorial-iptv-xbmc.blogspot.com[/B][/I][/COLOR]
+#EXTINF:0,beIN-SPORT1-HD
+http://178.63.136.77:8000/soufien/souf2008/529
+#EXTINF:0,beIN-Sport-HD
+http://178.63.136.77:8000/soufien/souf2008/530
+#EXTINF:0,beIN-Sport-HD-10
+http://178.63.136.77:8000/soufien/souf2008/531
+#EXTINF:0,beIN-Sport-HD-2
+http://178.63.136.77:8000/soufien/souf2008/532
+#EXTINF:0,beIN-Sport-HD-5
+http://178.63.136.77:8000/soufien/souf2008/533
+#EXTINF:0,beIN-Sport-HD-6
+http://178.63.136.77:8000/soufien/souf2008/534
+#EXTINF:0,beIN-Sport-HD-7
+http://178.63.136.77:8000/soufien/souf2008/535
+#EXTINF:0,beIN-Sport-HD-8
+http://178.63.136.77:8000/soufien/souf2008/536
+#EXTINF:0,beIN-Sport-HD-9
+http://178.63.136.77:8000/soufien/souf2008/537
+#EXTINF:0,beINSport-HD8
+http://178.63.136.77:8000/soufien/souf2008/538
+#EXTINF:0,BHT-1
+http://178.63.136.77:8000/soufien/souf2008/539
+#EXTINF:0,FTV
+http://178.63.136.77:8000/soufien/souf2008/540
+#EXTINF:0,TK
+http://178.63.136.77:8000/soufien/souf2008/541
+#EXTINF:0,FACE-TV
+http://178.63.136.77:8000/soufien/souf2008/542
+#EXTINF:0,TV1
+http://178.63.136.77:8000/soufien/souf2008/543
+#EXTINF:0,HAYAT-TV
+http://178.63.136.77:8000/soufien/souf2008/544
+#EXTINF:0,HAYAT-PLUS
+http://178.63.136.77:8000/soufien/souf2008/545
+#EXTINF:0,HAYATOVCI
+http://178.63.136.77:8000/soufien/souf2008/546
+#EXTINF:0,OBN
+http://178.63.136.77:8000/soufien/souf2008/547
+#EXTINF:0,ATV
+http://178.63.136.77:8000/soufien/souf2008/548
+#EXTINF:0,BOSNA-TV1
+http://178.63.136.77:8000/soufien/souf2008/549
+#EXTINF:0,RTV-ZENICA
+http://178.63.136.77:8000/soufien/souf2008/550
+#EXTINF:0,NOVA-TV
+http://178.63.136.77:8000/soufien/souf2008/551
+#EXTINF:0,RTL
+http://178.63.136.77:8000/soufien/souf2008/552
+#EXTINF:0,RTL2
+http://178.63.136.77:8000/soufien/souf2008/553
+#EXTINF:0,RTL-LIVING
+http://178.63.136.77:8000/soufien/souf2008/554
+#EXTINF:0,RTL-KOCKICA
+http://178.63.136.77:8000/soufien/souf2008/555
+#EXTINF:0,DOMA-TV
+http://178.63.136.77:8000/soufien/souf2008/556
+#EXTINF:0,KLASIK-TV
+http://178.63.136.77:8000/soufien/souf2008/557
+#EXTINF:0,HRT1
+http://178.63.136.77:8000/soufien/souf2008/558
+#EXTINF:0,HRT2
+http://178.63.136.77:8000/soufien/souf2008/559
+#EXTINF:0,HRT3
+http://178.63.136.77:8000/soufien/souf2008/560
+#EXTINF:0,HRT4
+http://178.63.136.77:8000/soufien/souf2008/561
+#EXTINF:0,RTS1
+http://178.63.136.77:8000/soufien/souf2008/562
+#EXTINF:0,RTS2
+http://178.63.136.77:8000/soufien/souf2008/563
+#EXTINF:0,RTRS
+http://178.63.136.77:8000/soufien/souf2008/564
+#EXTINF:0,PRVA-TV
+http://178.63.136.77:8000/soufien/souf2008/565
+#EXTINF:0,PRVA-PLUS
+http://178.63.136.77:8000/soufien/souf2008/566
+#EXTINF:0,HAPPY-TV
+http://178.63.136.77:8000/soufien/souf2008/567
+#EXTINF:0,NOVA-RS
+http://178.63.136.77:8000/soufien/souf2008/568
+#EXTINF:0,B92
+http://178.63.136.77:8000/soufien/souf2008/569
+#EXTINF:0,N1
+http://178.63.136.77:8000/soufien/souf2008/570
+#EXTINF:0,PINK-BIH
+http://178.63.136.77:8000/soufien/souf2008/571
+#EXTINF:0,PINK-FILM
+http://178.63.136.77:8000/soufien/souf2008/572
+#EXTINF:0,PINK-WESTERN
+http://178.63.136.77:8000/soufien/souf2008/573
+#EXTINF:0,PINK
+http://178.63.136.77:8000/soufien/souf2008/574
+#EXTINF:0,PINK2
+http://178.63.136.77:8000/soufien/souf2008/575
+#EXTINF:0,PINK3
+http://178.63.136.77:8000/soufien/souf2008/576
+#EXTINF:0,PINK-ACTION
+http://178.63.136.77:8000/soufien/souf2008/577
+#EXTINF:0,PINK-SCI-FI-&-FANTASY
+http://178.63.136.77:8000/soufien/souf2008/578
+#EXTINF:0,PINK-CRIME-&-MYSTERY
+http://178.63.136.77:8000/soufien/souf2008/579
+#EXTINF:0,PINK-THRILLER
+http://178.63.136.77:8000/soufien/souf2008/580
+#EXTINF:0,PINK-HORROR
+http://178.63.136.77:8000/soufien/souf2008/581
+#EXTINF:0,PINK-PREMIUM
+http://178.63.136.77:8000/soufien/souf2008/582
+#EXTINF:0,PINK-COMEDY
+http://178.63.136.77:8000/soufien/souf2008/583
+#EXTINF:0,PINK-ROMANCE
+http://178.63.136.77:8000/soufien/souf2008/584
+#EXTINF:0,PINK-ZABAVA
+http://178.63.136.77:8000/soufien/souf2008/585
+#EXTINF:0,PINK-REALITY
+http://178.63.136.77:8000/soufien/souf2008/586
+#EXTINF:0,PINK-PEDIA
+http://178.63.136.77:8000/soufien/souf2008/587
+#EXTINF:0,PINK-PLUS
+http://178.63.136.77:8000/soufien/souf2008/588
+#EXTINF:0,PINK-SOAP
+http://178.63.136.77:8000/soufien/souf2008/589
+#EXTINF:0,PINK-KIDS
+http://178.63.136.77:8000/soufien/souf2008/590
+#EXTINF:0,PINK-FOLK1
+http://178.63.136.77:8000/soufien/souf2008/591
+#EXTINF:0,BN
+http://178.63.136.77:8000/soufien/souf2008/592
+#EXTINF:0,BN-MUSIC
+http://178.63.136.77:8000/soufien/souf2008/593
+#EXTINF:0,GRAND-TV
+http://178.63.136.77:8000/soufien/souf2008/594
+#EXTINF:0,DM-SAT
+http://178.63.136.77:8000/soufien/souf2008/595
+#EXTINF:0,VALENTINO-TV
+http://178.63.136.77:8000/soufien/souf2008/596
+#EXTINF:0,BANOVINA-TV
+http://178.63.136.77:8000/soufien/souf2008/597
+#EXTINF:0,M1-FILM
+http://178.63.136.77:8000/soufien/souf2008/598
+#EXTINF:0,FILM-MIX
+http://178.63.136.77:8000/soufien/souf2008/599
+#EXTINF:0,CINEMAX
+http://178.63.136.77:8000/soufien/souf2008/600
+#EXTINF:0,CINEMAX2
+http://178.63.136.77:8000/soufien/souf2008/601
+#EXTINF:0,CINESTAR-TV
+http://178.63.136.77:8000/soufien/souf2008/602
+#EXTINF:0,CINESTAR-TV1
+http://178.63.136.77:8000/soufien/souf2008/603
+#EXTINF:0,CINESTAR-TV2
+http://178.63.136.77:8000/soufien/souf2008/604
+#EXTINF:0,HBO
+http://178.63.136.77:8000/soufien/souf2008/605
+#EXTINF:0,HBO-COMEDY
+http://178.63.136.77:8000/soufien/souf2008/606
+#EXTINF:0,FOX-TV
+http://178.63.136.77:8000/soufien/souf2008/607
+#EXTINF:0,FOX-MOVIES
+http://178.63.136.77:8000/soufien/souf2008/608
+#EXTINF:0,FOX-CRIME
+http://178.63.136.77:8000/soufien/souf2008/609
+#EXTINF:0,FOX-LIFE
+http://178.63.136.77:8000/soufien/souf2008/610
+#EXTINF:0,NATIONAL-GEOGRAPHIC
+http://178.63.136.77:8000/soufien/souf2008/611
+#EXTINF:0,DISCOVERY-CHANNEL
+http://178.63.136.77:8000/soufien/souf2008/612
+#EXTINF:0,ANIMAL-PLANET
+http://178.63.136.77:8000/soufien/souf2008/613
+#EXTINF:0,HISTORY-CHANNEL
+http://178.63.136.77:8000/soufien/souf2008/614
+#EXTINF:0,TRAVEL-CHANNEL
+http://178.63.136.77:8000/soufien/souf2008/615
+#EXTINF:0,LOV-I-RIBOLOV
+http://178.63.136.77:8000/soufien/souf2008/616
+#EXTINF:0,24-KITCHEN
+http://178.63.136.77:8000/soufien/souf2008/617
+#EXTINF:0,E!
+http://178.63.136.77:8000/soufien/souf2008/618
+#EXTINF:0,FIGHT-CHANNEL
+http://178.63.136.77:8000/soufien/souf2008/619
+#EXTINF:0,EUROSPORT-1
+http://178.63.136.77:8000/soufien/souf2008/620
+#EXTINF:0,EUROSPORT-2
+http://178.63.136.77:8000/soufien/souf2008/621
+#EXTINF:0,MINI-TV
+http://178.63.136.77:8000/soufien/souf2008/622
+#EXTINF:0,MINIMAX
+http://178.63.136.77:8000/soufien/souf2008/623
+#EXTINF:0,DE:SKY-BUNDESLIGA-1HD
+http://178.63.136.77:8000/soufien/souf2008/624
+#EXTINF:0,DE:SKY-SPORT-1HD
+http://178.63.136.77:8000/soufien/souf2008/625
+#EXTINF:0,DE:SKY-SPORT-2HD
+http://178.63.136.77:8000/soufien/souf2008/626
+#EXTINF:0,DE:SKY-CINEMA-HD
+http://178.63.136.77:8000/soufien/souf2008/627
+#EXTINF:0,DE:SKY-ACTION-HD
+http://178.63.136.77:8000/soufien/souf2008/628
+#EXTINF:0,DE:SKY-ATLANTIC-HD
+http://178.63.136.77:8000/soufien/souf2008/629
+#EXTINF:0,DE:SKY-COMEDY-HD
+http://178.63.136.77:8000/soufien/souf2008/630
+#EXTINF:0,DE:SKY-TNT-FILM-HD
+http://178.63.136.77:8000/soufien/souf2008/631
+#EXTINF:0,DE:PRO7
+http://178.63.136.77:8000/soufien/souf2008/632
+#EXTINF:0,DE:RTL-HD
+http://178.63.136.77:8000/soufien/souf2008/633
+#EXTINF:0,DE:RTLII
+http://178.63.136.77:8000/soufien/souf2008/634
+#EXTINF:0,SS-1HD
+http://178.63.136.77:8000/soufien/souf2008/635
+#EXTINF:0,SS-2HD
+http://178.63.136.77:8000/soufien/souf2008/636
+#EXTINF:0,SS-3HD
+http://178.63.136.77:8000/soufien/souf2008/637
+#EXTINF:0,AL:FILM-DY-HD
+http://178.63.136.77:8000/soufien/souf2008/638
+#EXTINF:0,AL:FILM-KOMEDI
+http://178.63.136.77:8000/soufien/souf2008/639
+#EXTINF:0,AL:FILM-AKSION
+http://178.63.136.77:8000/soufien/souf2008/640
+#EXTINF:0,AL:FILM-HITS
+http://178.63.136.77:8000/soufien/souf2008/641
+#EXTINF:0,UK:SKY-SPORT1
+http://178.63.136.77:8000/soufien/souf2008/642
+#EXTINF:0,UK:SKY-SPORT2
+http://178.63.136.77:8000/soufien/souf2008/643
+#EXTINF:0,UK:SKY-SPORT3
+http://178.63.136.77:8000/soufien/souf2008/644
+#EXTINF:0,UK:SKY-SPORT4
+http://178.63.136.77:8000/soufien/souf2008/645
+#EXTINF:0,UK:SKY-SPORT5
+http://178.63.136.77:8000/soufien/souf2008/646
+#EXTINF:0,UK:BT-SPORT1
+http://178.63.136.77:8000/soufien/souf2008/647
+#EXTINF:0,UK:BT-SPORT2
+http://178.63.136.77:8000/soufien/souf2008/648
+#EXTINF:0,UK:LIVERPOOL
+http://178.63.136.77:8000/soufien/souf2008/649
+#EXTINF:0,UK:SKY-SPORT-F1
+http://178.63.136.77:8000/soufien/souf2008/650
+#EXTINF:0,UK:SETANTA-IRELAND
+http://178.63.136.77:8000/soufien/souf2008/651
+#EXTINF:0,UK:SKY-PREMIERE
+http://178.63.136.77:8000/soufien/souf2008/652
+#EXTINF:0,UK:SKY-PREMIERE1
+http://178.63.136.77:8000/soufien/souf2008/653
+#EXTINF:0,IT:RAI-1HD
+http://178.63.136.77:8000/soufien/souf2008/654
+#EXTINF:0,IT:RAI-2HD
+http://178.63.136.77:8000/soufien/souf2008/655
+#EXTINF:0,IT:RAI-3HD
+http://178.63.136.77:8000/soufien/souf2008/656
+#EXTINF:0,IT:SKY-SPORTS-HD
+http://178.63.136.77:8000/soufien/souf2008/657
+#EXTINF:0,IT:SKY-SPORT1
+http://178.63.136.77:8000/soufien/souf2008/658
+#EXTINF:0,IT:SKY-SPORT2
+http://178.63.136.77:8000/soufien/souf2008/659
+#EXTINF:0,IT:SKY-CALCIO-HD
+http://178.63.136.77:8000/soufien/souf2008/660
+#EXTINF:0,IT:PRIMAFILA-1HD
+http://178.63.136.77:8000/soufien/souf2008/661
+#EXTINF:0,IT:PRIMAFILA-2HD
+http://178.63.136.77:8000/soufien/souf2008/662
+#EXTINF:0,IT:PRIMAFILA-3HD
+http://178.63.136.77:8000/soufien/souf2008/663
+#EXTINF:0,IT:CINEMA-MAX-HD
+http://178.63.136.77:8000/soufien/souf2008/664
+#EXTINF:0,IT:CINEMA-COMEDY
+http://178.63.136.77:8000/soufien/souf2008/665
+#EXTINF:0,IT:PREMIUM-CINEMA
+http://178.63.136.77:8000/soufien/souf2008/666
+#EXTINF:0,IT:PREMIUM-ACTION
+http://178.63.136.77:8000/soufien/souf2008/667
+#EXTINF:0,FR:BEIN-SPORT-1HD
+http://178.63.136.77:8000/soufien/souf2008/668
+#EXTINF:0,FR:BEIN-SPORT-2HD
+http://178.63.136.77:8000/soufien/souf2008/669
+#EXTINF:0,FR:BEIN-SPORT-3HD
+http://178.63.136.77:8000/soufien/souf2008/670
+#EXTINF:0,AR:BEIN-SPORT-1
+http://178.63.136.77:8000/soufien/souf2008/671
+#EXTINF:0,AR:BEIN-SPORT-2
+http://178.63.136.77:8000/soufien/souf2008/672
+#EXTINF:0,AR:BEIN-SPORT-3
+http://178.63.136.77:8000/soufien/souf2008/673
+#EXTINF:0,AR:BEIN-SPORT-4
+http://178.63.136.77:8000/soufien/souf2008/674
+#EXTINF:0,AR:BEIN-SPORT-5
+http://178.63.136.77:8000/soufien/souf2008/675
+#EXTINF:0,AR:BEIN-SPORT-6
+http://178.63.136.77:8000/soufien/souf2008/676
+#EXTINF:0,AR:BEIN-SPORT-7
+http://178.63.136.77:8000/soufien/souf2008/677
+#EXTINF:0,AR:BEIN-SPORT-8
+http://178.63.136.77:8000/soufien/souf2008/678
+#EXTINF:0,AR:BEIN-SPORT-9
+http://178.63.136.77:8000/soufien/souf2008/679
+#EXTINF:0,AR:BEIN-SPORT-10
+http://178.63.136.77:8000/soufien/souf2008/680
+#EXTINF:0,LIG-TV1
+http://178.63.136.77:8000/soufien/souf2008/681
+#EXTINF:0,LIG-TV2
+http://178.63.136.77:8000/soufien/souf2008/682
+#EXTINF:0,LIG-TV3
+http://178.63.136.77:8000/soufien/souf2008/683
+#EXTINF:0,TRT-HD
+http://178.63.136.77:8000/soufien/souf2008/684
+#EXTINF:0,AR:MBC1
+http://178.63.136.77:8000/soufien/souf2008/685
+#EXTINF:0,AR:MBC2
+http://178.63.136.77:8000/soufien/souf2008/686
+#EXTINF:0,AR:MBC3
+http://178.63.136.77:8000/soufien/souf2008/687
+#EXTINF:0,AR:MBC4
+http://178.63.136.77:8000/soufien/souf2008/688
+#EXTINF:0,AR:MBC-BOLLYWOOD
+http://178.63.136.77:8000/soufien/souf2008/689
+#EXTINF:0,AR:NILE-CINEMA
+http://178.63.136.77:8000/soufien/souf2008/690
+#EXTINF:0,AR:NILE-COMEDY
+http://178.63.136.77:8000/soufien/souf2008/691
+#EXTINF:0,AR:NILE-DRAMA
+http://178.63.136.77:8000/soufien/souf2008/692
+#EXTINF:0,AR:NILE-LIFE
+http://178.63.136.77:8000/soufien/souf2008/693
+#EXTINF:0,AR:NILE-SPORT
+http://178.63.136.77:8000/soufien/souf2008/694
+#EXTINF:0,AR:AD-SPORT1-UAE
+http://178.63.136.77:8000/soufien/souf2008/695
+#EXTINF:0,AR:AL-ARABIA
+http://178.63.136.77:8000/soufien/souf2008/696
+#EXTINF:0,AR:DUBAI-DRAMA-HD
+http://178.63.136.77:8000/soufien/souf2008/697
+#EXTINF:0,AR:DUBAI-ONE-HD
+http://178.63.136.77:8000/soufien/souf2008/698
+#EXTINF:0,AR:DUBAI-SPORT
+http://178.63.136.77:8000/soufien/souf2008/699
+#EXTINF:0,AR:DUBAI-SPORT1-HD
+http://178.63.136.77:8000/soufien/souf2008/700
+#EXTINF:0,AR:DUBAI-TV
+http://178.63.136.77:8000/soufien/souf2008/701
+#EXTINF:0,AR:ROTANA-MUSIC
+http://178.63.136.77:8000/soufien/souf2008/702
+#EXTINF:0,AR:ROTANA-MASRYA
+http://178.63.136.77:8000/soufien/souf2008/703
+#EXTINF:0,AR:ROTANA-CLIP
+http://178.63.136.77:8000/soufien/souf2008/704
+#EXTINF:0,AR:ROTANA-CINEMA
+http://178.63.136.77:8000/soufien/souf2008/705
+#EXTINF:0,AR:ROTANA-AFLAM
+http://178.63.136.77:8000/soufien/souf2008/706
+#EXTINF:0,AR:MBC-PRO-SPORT1
+http://178.63.136.77:8000/soufien/souf2008/707
+#EXTINF:0,AR:MBC-PRO2
+http://178.63.136.77:8000/soufien/souf2008/708
+#EXTINF:0,AR:MBC-SPORT3
+http://178.63.136.77:8000/soufien/souf2008/709
+#EXTINF:0,AR:MBC-SPORT4
+http://178.63.136.77:8000/soufien/souf2008/710
+#EXTINF:0,AR:SYRIA-DRAMA
+http://178.63.136.77:8000/soufien/souf2008/711
+#EXTINF:0,AR:CBC-DRAMA
+http://178.63.136.77:8000/soufien/souf2008/712
+#EXTINF:0,AR:CBC-TV
+http://178.63.136.77:8000/soufien/souf2008/713
+#EXTINF:0,AR:CBC2
+http://178.63.136.77:8000/soufien/souf2008/714
+#EXTINF:0,AR:PANORAMA-DRAMA1
+http://178.63.136.77:8000/soufien/souf2008/715
+#EXTINF:0,AR:PANAORAMA-DRAMA2
+http://178.63.136.77:8000/soufien/souf2008/716
+#EXTINF:0,OSN:Ya-Hala-Drama
+http://178.63.136.77:8000/soufien/souf2008/717
+#EXTINF:0,OSN:Star-Movies2HD
+http://178.63.136.77:8000/soufien/souf2008/718
+#EXTINF:0,OSN:Star-Movies1HD
+http://178.63.136.77:8000/soufien/souf2008/719
+#EXTINF:0,OSN:Nat-Geo-Wild-HD
+http://178.63.136.77:8000/soufien/souf2008/720
+#EXTINF:0,OSN:Movies-Drama
+http://178.63.136.77:8000/soufien/souf2008/721
+#EXTINF:0,OSN:Movies-HD
+http://178.63.136.77:8000/soufien/souf2008/722
+#EXTINF:0,OSN:Movies-Comedy-HD
+http://178.63.136.77:8000/soufien/souf2008/723
+#EXTINF:0,OSN:Discovery-Sci
+http://178.63.136.77:8000/soufien/souf2008/724
+#EXTINF:0,OSN:Discovery
+http://178.63.136.77:8000/soufien/souf2008/725
+#EXTINF:0,OSN:Animal-Planet
+http://178.63.136.77:8000/soufien/souf2008/726
+#EXTINF:0,OSN:Al-Youm
+http://178.63.136.77:8000/soufien/souf2008/727
+#EXTINF:0,FRA:W9
+http://178.63.136.77:8000/soufien/souf2008/728
+#EXTINF:0,FRA:Ushuaia-TV
+http://178.63.136.77:8000/soufien/souf2008/729
+#EXTINF:0,FRA:TF1-HD
+http://178.63.136.77:8000/soufien/souf2008/730
+#EXTINF:0,FRA:SYFY
+http://178.63.136.77:8000/soufien/souf2008/731
+#EXTINF:0,FRA:SCIENCES-&-VIE
+http://178.63.136.77:8000/soufien/souf2008/732
+#EXTINF:0,FRA:PLANETE+
+http://178.63.136.77:8000/soufien/souf2008/733
+#EXTINF:0,FRA:PLANET-CI-HD
+http://178.63.136.77:8000/soufien/souf2008/734
+#EXTINF:0,FRA:PLANET
+http://178.63.136.77:8000/soufien/souf2008/735
+#EXTINF:0,FRA:OCS-City-HD
+http://178.63.136.77:8000/soufien/souf2008/736
+#EXTINF:0,FRA:NATIONAL-GEOGRAPHIC
+http://178.63.136.77:8000/soufien/souf2008/737
+#EXTINF:0,FRA:NAT-GEO-WILD
+http://178.63.136.77:8000/soufien/souf2008/738
+#EXTINF:0,FRA:Ma-Chane-Sport-HD
+http://178.63.136.77:8000/soufien/souf2008/739
+#EXTINF:0,FRA:M6
+http://178.63.136.77:8000/soufien/souf2008/740
+#EXTINF:0,FRA:InfoSport
+http://178.63.136.77:8000/soufien/souf2008/741
+#EXTINF:0,FRA:France3-HD
+http://178.63.136.77:8000/soufien/souf2008/742
+#EXTINF:0,FRA:France2-HD
+http://178.63.136.77:8000/soufien/souf2008/743
+#EXTINF:0,FRA:Eurosport2-HD
+http://178.63.136.77:8000/soufien/souf2008/744
+#EXTINF:0,FRA:Eurosport1-HD
+http://178.63.136.77:8000/soufien/souf2008/745
+#EXTINF:0,FRA:EUROSPORT2
+http://178.63.136.77:8000/soufien/souf2008/746
+#EXTINF:0,FRA:DISCOVERY-SCIENCE
+http://178.63.136.77:8000/soufien/souf2008/747
+#EXTINF:0,FRA:DISCOVERY-HD
+http://178.63.136.77:8000/soufien/souf2008/748
+#EXTINF:0,FRA:D8
+http://178.63.136.77:8000/soufien/souf2008/749
+#EXTINF:0,FRA:Cine-Premier
+http://178.63.136.77:8000/soufien/souf2008/750
+#EXTINF:0,FRA:Cine-Classic
+http://178.63.136.77:8000/soufien/souf2008/751
+#EXTINF:0,FRA:CANAL-Sport
+http://178.63.136.77:8000/soufien/souf2008/752
+#EXTINF:0,FRA:Canal-Serie
+http://178.63.136.77:8000/soufien/souf2008/753
+#EXTINF:0,FRA:CANAL-Series
+http://178.63.136.77:8000/soufien/souf2008/754
+#EXTINF:0,FRA:CANAL-Family
+http://178.63.136.77:8000/soufien/souf2008/755
+#EXTINF:0,FRA:CANAL-Cinema
+http://178.63.136.77:8000/soufien/souf2008/756
+#EXTINF:0,FRA:Beinsport-3
+http://178.63.136.77:8000/soufien/souf2008/757
+#EXTINF:0,FRA:Beinsport-2
+http://178.63.136.77:8000/soufien/souf2008/758
+#EXTINF:0,FRA:Beinsport-1
+http://178.63.136.77:8000/soufien/souf2008/759
+#EXTINF:0,FRA:ARTE
+http://178.63.136.77:8000/soufien/souf2008/760
+#EXTINF:0,DE:TELE5
+http://178.63.136.77:8000/soufien/souf2008/761
+#EXTINF:0,DE:Tagesschau24
+http://178.63.136.77:8000/soufien/souf2008/762
+#EXTINF:0,DE:SIXX-HD
+http://178.63.136.77:8000/soufien/souf2008/763
+#EXTINF:0,DE:RTL-NITRO-HD
+http://178.63.136.77:8000/soufien/souf2008/764
+#EXTINF:0,DE:PHOENIX
+http://178.63.136.77:8000/soufien/souf2008/765
+#EXTINF:0,DE:ORF-Zwei-Austria
+http://178.63.136.77:8000/soufien/souf2008/766
+#EXTINF:0,DE:ORF-Sport-Austria
+http://178.63.136.77:8000/soufien/souf2008/767
+#EXTINF:0,DE:ORF-Drei-Austria
+http://178.63.136.77:8000/soufien/souf2008/768
+#EXTINF:0,DE:Muenchen-TV
+http://178.63.136.77:8000/soufien/souf2008/769
+#EXTINF:0,DE:KABEL-Eins
+http://178.63.136.77:8000/soufien/souf2008/770
+#EXTINF:0,DE:Juwelo-De
+http://178.63.136.77:8000/soufien/souf2008/771
+#EXTINF:0,DE:Family-TV
+http://178.63.136.77:8000/soufien/souf2008/772
+#EXTINF:0,DE:Euronews-De
+http://178.63.136.77:8000/soufien/souf2008/773
+#EXTINF:0,DE:DMAX
+http://178.63.136.77:8000/soufien/souf2008/774
+#EXTINF:0,DE:Deutsches-Anlegerfernsehen
+http://178.63.136.77:8000/soufien/souf2008/775
+#EXTINF:0,DE:Das-Neue-TV
+http://178.63.136.77:8000/soufien/souf2008/776
+#EXTINF:0,DE:Austria24-De
+http://178.63.136.77:8000/soufien/souf2008/777
+#EXTINF:0,DE:ANIXE
+http://178.63.136.77:8000/soufien/souf2008/778
+#EXTINF:0,DE:ALEX-TV
+http://178.63.136.77:8000/soufien/souf2008/779
+#EXTINF:0,DE:Alex-Berlin
+http://178.63.136.77:8000/soufien/souf2008/780
+#EXTINF:0,DE:7MAXX
+http://178.63.136.77:8000/soufien/souf2008/781
+#EXTINF:0,DE:3SAT
+http://178.63.136.77:8000/soufien/souf2008/782
+#EXTINF:0,DE:Das-Neue-TV
+http://178.63.136.77:8000/soufien/souf2008/783
+#EXTINF:0,DE:SRF2
+http://178.63.136.77:8000/soufien/souf2008/784
+#EXTINF:0,DE:SRF1
+http://178.63.136.77:8000/soufien/souf2008/785
+#EXTINF:0,DE:RTL-NITRO
+http://178.63.136.77:8000/soufien/souf2008/786
+#EXTINF:0,DE:ZDF
+http://178.63.136.77:8000/soufien/souf2008/787
+#EXTINF:0,DE:Wel-der-Wunder-TV
+http://178.63.136.77:8000/soufien/souf2008/788
+#EXTINF:0,DE:Tagesschau24
+http://178.63.136.77:8000/soufien/souf2008/789
+#EXTINF:0,DE:SUPER-RTL
+http://178.63.136.77:8000/soufien/souf2008/790
+#EXTINF:0,DE:SAT1
+http://178.63.136.77:8000/soufien/souf2008/791
+#EXTINF:0,DE:RTL2
+http://178.63.136.77:8000/soufien/souf2008/792
+#EXTINF:0,DE:RTL
+http://178.63.136.77:8000/soufien/souf2008/793
+#EXTINF:0,DE:PRO7
+http://178.63.136.77:8000/soufien/souf2008/794
+#EXTINF:0,DE:ORF-Zwei
+http://178.63.136.77:8000/soufien/souf2008/795
+#EXTINF:0,DE:NICKELODEON
+http://178.63.136.77:8000/soufien/souf2008/796
+#EXTINF:0,DE:Muenchen-TV
+http://178.63.136.77:8000/soufien/souf2008/797
+#EXTINF:0,DE:KIKA
+http://178.63.136.77:8000/soufien/souf2008/798
+#EXTINF:0,DE:Juwelo
+http://178.63.136.77:8000/soufien/souf2008/799
+#EXTINF:0,DE:Family-TV
+http://178.63.136.77:8000/soufien/souf2008/800
+#EXTINF:0,DE:Eurosport
+http://178.63.136.77:8000/soufien/souf2008/801
+#EXTINF:0,DE:Euronews
+http://178.63.136.77:8000/soufien/souf2008/802
+#EXTINF:0,DE:Das-Neue-TV
+http://178.63.136.77:8000/soufien/souf2008/803
+#EXTINF:0,DE:Austria24
+http://178.63.136.77:8000/soufien/souf2008/804
+#EXTINF:0,DE:ARD
+http://178.63.136.77:8000/soufien/souf2008/805
+#EXTINF:0,DE:ANIXE
+http://178.63.136.77:8000/soufien/souf2008/806
+#EXTINF:0,DE:SPORT-TIME-TV1
+http://178.63.136.77:8000/soufien/souf2008/807
+#EXTINF:0,DE:SPORT-TIME-TV-2
+http://178.63.136.77:8000/soufien/souf2008/808
+#EXTINF:0,DE:SPORT-TIME-TV-3HD
+http://178.63.136.77:8000/soufien/souf2008/809
+#EXTINF:0,DE:SPORT-TIME-TV-4HQ
+http://178.63.136.77:8000/soufien/souf2008/810
+#EXTINF:0,DE:SPORT-TIME-TV-5HQ
+http://178.63.136.77:8000/soufien/souf2008/811
+#EXTINF:0,DE:SPORT-TIME-TV-6HQ
+http://178.63.136.77:8000/soufien/souf2008/812
+#EXTINF:0,DE:SPORT-TIME-TV-7HQ
+http://178.63.136.77:8000/soufien/souf2008/813
+#EXTINF:0,DE:SPORT1
+http://178.63.136.77:8000/soufien/souf2008/814
+#EXTINF:0,DE:Sky-Sports1-HD
+http://178.63.136.77:8000/soufien/souf2008/815
+#EXTINF:0,DE:Sky-Sports2-HD
+http://178.63.136.77:8000/soufien/souf2008/816
+#EXTINF:0,DE:Sky-BundesLiga-HD
+http://178.63.136.77:8000/soufien/souf2008/817
+#EXTINF:0,DE:SKY-SELECT1-HD
+http://178.63.136.77:8000/soufien/souf2008/818
+#EXTINF:0,DE:SKY-SELECT2-HD
+http://178.63.136.77:8000/soufien/souf2008/819
+#EXTINF:0,DE:SKY-SELECT3-HD
+http://178.63.136.77:8000/soufien/souf2008/820
+#EXTINF:0,DE:SKY-SELECT4-HD
+http://178.63.136.77:8000/soufien/souf2008/821
+#EXTINF:0,DE:SKY-SELECT5-HD
+http://178.63.136.77:8000/soufien/souf2008/822
+#EXTINF:0,DE:SKY-SELECT6-HD
+http://178.63.136.77:8000/soufien/souf2008/823
+#EXTINF:0,DE:B-Sky-Select1
+http://178.63.136.77:8000/soufien/souf2008/824
+#EXTINF:0,DE:B-Sky-Select2
+http://178.63.136.77:8000/soufien/souf2008/825
+#EXTINF:0,DE:B-Sky-Select3
+http://178.63.136.77:8000/soufien/souf2008/826
+#EXTINF:0,DE:B-Sky-Select4
+http://178.63.136.77:8000/soufien/souf2008/827
+#EXTINF:0,DE:B-Sky-Select5
+http://178.63.136.77:8000/soufien/souf2008/828
+#EXTINF:0,DE:B-Sky-Select6
+http://178.63.136.77:8000/soufien/souf2008/829
+#EXTINF:0,DE:B-Sky-Select7
+http://178.63.136.77:8000/soufien/souf2008/830
+#EXTINF:0,DE:B-Sky-Select8
+http://178.63.136.77:8000/soufien/souf2008/831
+#EXTINF:0,DE:Sky-TNT-Serie-HD
+http://178.63.136.77:8000/soufien/souf2008/832
+#EXTINF:0,DE:Sky-TNT-Film-HD
+http://178.63.136.77:8000/soufien/souf2008/833
+#EXTINF:0,DE:Sky-National-Geographic-HD
+http://178.63.136.77:8000/soufien/souf2008/834
+#EXTINF:0,DE:Sky-NatGeo-Wild-HD
+http://178.63.136.77:8000/soufien/souf2008/835
+#EXTINF:0,DE:SKY-NAT-GEO-WILD
+http://178.63.136.77:8000/soufien/souf2008/836
+#EXTINF:0,DE:Sky-MGM-HD
+http://178.63.136.77:8000/soufien/souf2008/837
+#EXTINF:0,DE:Sky-Krimi
+http://178.63.136.77:8000/soufien/souf2008/838
+#EXTINF:0,DE:Sky-Hits
+http://178.63.136.77:8000/soufien/souf2008/839
+#EXTINF:0,DE:Sky-History-Channel
+http://178.63.136.77:8000/soufien/souf2008/840
+#EXTINF:0,DE:Sky-Fox-HD
+http://178.63.136.77:8000/soufien/souf2008/841
+#EXTINF:0,DE:SKY-EMOTION
+http://178.63.136.77:8000/soufien/souf2008/842
+#EXTINF:0,DE:Sky-Discovery-Channel-HD
+http://178.63.136.77:8000/soufien/souf2008/843
+#EXTINF:0,DE:Sky-Comedy-HD
+http://178.63.136.77:8000/soufien/souf2008/844
+#EXTINF:0,DE:Sky-Cinema-HD
+http://178.63.136.77:8000/soufien/souf2008/845
+#EXTINF:0,DE:Sky-Cinema24
+http://178.63.136.77:8000/soufien/souf2008/846
+#EXTINF:0,DE:Sky-Cinema1-HD
+http://178.63.136.77:8000/soufien/souf2008/847
+#EXTINF:0,DE:Sky-13-Street-HD
+http://178.63.136.77:8000/soufien/souf2008/848
+#EXTINF:0,DE:SKY-CINEMA
+http://178.63.136.77:8000/soufien/souf2008/849
+#EXTINF:0,DE:SKY-CINEMA1
+http://178.63.136.77:8000/soufien/souf2008/850
+#EXTINF:0,DE:SKY-COMEDY
+http://178.63.136.77:8000/soufien/souf2008/851
+#EXTINF:0,DE:Sky-Action-HD
+http://178.63.136.77:8000/soufien/souf2008/852
+#EXTINF:0,DE:Discovery-Channel-HD
+http://178.63.136.77:8000/soufien/souf2008/853
+#EXTINF:0,DE:Sky-History-Channel
+http://178.63.136.77:8000/soufien/souf2008/854
+#EXTINF:0,DIGIRO:KANAL-D
+http://178.63.136.77:8000/soufien/souf2008/855
+#EXTINF:0,DIGIRO:6-TV
+http://178.63.136.77:8000/soufien/souf2008/856
+#EXTINF:0,DIGIRO:VIASAT-NATURE
+http://178.63.136.77:8000/soufien/souf2008/857
+#EXTINF:0,DIGIRO:VIASAT-HISTORY
+http://178.63.136.77:8000/soufien/souf2008/858
+#EXTINF:0,DIGIRO:VIASAT-EXPLORER
+http://178.63.136.77:8000/soufien/souf2008/859
+#EXTINF:0,DIGIRO:U-TV
+http://178.63.136.77:8000/soufien/souf2008/860
+#EXTINF:0,DIGIRO:TVR-2
+http://178.63.136.77:8000/soufien/souf2008/861
+#EXTINF:0,DIGIRO:TVR-1
+http://178.63.136.77:8000/soufien/souf2008/862
+#EXTINF:0,DIGIRO:TV-SUD-EST
+http://178.63.136.77:8000/soufien/souf2008/863
+#EXTINF:0,DIGIRO:TV-1000
+http://178.63.136.77:8000/soufien/souf2008/864
+#EXTINF:0,DIGIRO:TRAVEL-CHANNEL
+http://178.63.136.77:8000/soufien/souf2008/865
+#EXTINF:0,DIGIRO:SPERANTA-TV
+http://178.63.136.77:8000/soufien/souf2008/866
+#EXTINF:0,DIGIRO:ROMANIA-TV
+http://178.63.136.77:8000/soufien/souf2008/867
+#EXTINF:0,DIGIRO:REALITATEA-TV
+http://178.63.136.77:8000/soufien/souf2008/868
+#EXTINF:0,DIGIRO:NICKELODEON
+http://178.63.136.77:8000/soufien/souf2008/869
+#EXTINF:0,DIGIRO:NATIONAL-GEOGRAPHIC
+http://178.63.136.77:8000/soufien/souf2008/870
+#EXTINF:0,DIGIRO:NAT-GEO-WILD
+http://178.63.136.77:8000/soufien/souf2008/871
+#EXTINF:0,DIGIRO:MINIMAX
+http://178.63.136.77:8000/soufien/souf2008/872
+#EXTINF:0,DIGIRO:MEGAMAX
+http://178.63.136.77:8000/soufien/souf2008/873
+#EXTINF:0,DIGIRO:M2
+http://178.63.136.77:8000/soufien/souf2008/874
+#EXTINF:0,DIGIRO:KISS-TV
+http://178.63.136.77:8000/soufien/souf2008/875
+#EXTINF:0,DIGIRO:INFO-PESCAR
+http://178.63.136.77:8000/soufien/souf2008/876
+#EXTINF:0,DIGIRO:INEDIT-TV
+http://178.63.136.77:8000/soufien/souf2008/877
+#EXTINF:0,DIGIRO:HIT-MUSIC
+http://178.63.136.77:8000/soufien/souf2008/878
+#EXTINF:0,DIGIRO:HISTORY-CHANNEL
+http://178.63.136.77:8000/soufien/souf2008/879
+#EXTINF:0,DIGIRO:FEREHVAR-TV
+http://178.63.136.77:8000/soufien/souf2008/880
+#EXTINF:0,DIGIRO:EUROSPORT-2
+http://178.63.136.77:8000/soufien/souf2008/881
+#EXTINF:0,DIGIRO:EUROSPORT-1
+http://178.63.136.77:8000/soufien/souf2008/882
+#EXTINF:0,DIGIRO:DUNA-WORLD
+http://178.63.136.77:8000/soufien/souf2008/883
+#EXTINF:0,DIGIRO:DUNA-TV
+http://178.63.136.77:8000/soufien/souf2008/884
+#EXTINF:0,DIGIRO:DISNEY-JUNIOR
+http://178.63.136.77:8000/soufien/souf2008/885
+#EXTINF:0,DIGIRO:DISNEY-CHANNEL
+http://178.63.136.77:8000/soufien/souf2008/886
+#EXTINF:0,DIGIRO:DIGI-WORLD
+http://178.63.136.77:8000/soufien/souf2008/887
+#EXTINF:0,DIGIRO:DIGI-SPORT-3
+http://178.63.136.77:8000/soufien/souf2008/888
+#EXTINF:0,DIGIRO:DIGI-SPORT-2
+http://178.63.136.77:8000/soufien/souf2008/889
+#EXTINF:0,DIGIRO:DIGI-SPORT-1-RO
+http://178.63.136.77:8000/soufien/souf2008/890
+#EXTINF:0,DIGIRO:DIGI-SPORT-1
+http://178.63.136.77:8000/soufien/souf2008/891
+#EXTINF:0,DIGIRO:DIGI-LIFE
+http://178.63.136.77:8000/soufien/souf2008/892
+#EXTINF:0,DIGIRO:DIGI-FILM-HD
+http://178.63.136.77:8000/soufien/souf2008/893
+#EXTINF:0,DIGIRO:DIGI-Animal-World-RO
+http://178.63.136.77:8000/soufien/souf2008/894
+#EXTINF:0,DIGIRO:DIGI-ANIMAL-WORLD
+http://178.63.136.77:8000/soufien/souf2008/895
+#EXTINF:0,DIGIRO:DIGI-24
+http://178.63.136.77:8000/soufien/souf2008/896
+#EXTINF:0,DIGIRO:B1-TV
+http://178.63.136.77:8000/soufien/souf2008/897
+#EXTINF:0,DIGIRO:ANTENA-3
+http://178.63.136.77:8000/soufien/souf2008/898
+#EXTINF:0,DIGIRO:ALFA-&-OMEGA
+http://178.63.136.77:8000/soufien/souf2008/899
+#EXTINF:0,DIGIRO:A-TV
+http://178.63.136.77:8000/soufien/souf2008/900
+#EXTINF:0,DIGIRO:1-MUSIC
+http://178.63.136.77:8000/soufien/souf2008/901
+#EXTINF:0,DIGIRO:DRUMETUL-TV-HD
+http://178.63.136.77:8000/soufien/souf2008/902
+#EXTINF:0,HBO:HBO-ZONE
+http://178.63.136.77:8000/soufien/souf2008/903
+#EXTINF:0,HBO:HBO-SIGNATURE
+http://178.63.136.77:8000/soufien/souf2008/904
+#EXTINF:0,HBO:HBO-EAST
+http://178.63.136.77:8000/soufien/souf2008/905
+#EXTINF:0,HBO:CINEMAX-EAST
+http://178.63.136.77:8000/soufien/souf2008/906
+#EXTINF:0,HBO:CINEMAX-5
+http://178.63.136.77:8000/soufien/souf2008/907
+#EXTINF:0,IND:ZEE-TV
+http://178.63.136.77:8000/soufien/souf2008/908
+#EXTINF:0,IND:ZEE-CINEMA
+http://178.63.136.77:8000/soufien/souf2008/909
+#EXTINF:0,IND:WAQT-NEWS
+http://178.63.136.77:8000/soufien/souf2008/910
+#EXTINF:0,IND:URDU-1
+http://178.63.136.77:8000/soufien/souf2008/911
+#EXTINF:0,IND:TIMES-TV
+http://178.63.136.77:8000/soufien/souf2008/912
+#EXTINF:0,IND:STYLE-360
+http://178.63.136.77:8000/soufien/souf2008/913
+#EXTINF:0,IND:START-SPORT-1
+http://178.63.136.77:8000/soufien/souf2008/914
+#EXTINF:0,IND:STAR-SPORT-2
+http://178.63.136.77:8000/soufien/souf2008/915
+#EXTINF:0,IND:SINDH-TV-NEWS
+http://178.63.136.77:8000/soufien/souf2008/916
+#EXTINF:0,IND:SINDH-TV
+http://178.63.136.77:8000/soufien/souf2008/917
+#EXTINF:0,IND:ROYAL-NEWS-TV
+http://178.63.136.77:8000/soufien/souf2008/918
+#EXTINF:0,IND:MASALA-TV
+http://178.63.136.77:8000/soufien/souf2008/919
+#EXTINF:0,IND:HUM-TV
+http://178.63.136.77:8000/soufien/souf2008/920
+#EXTINF:0,IND:ETV-MARATHI
+http://178.63.136.77:8000/soufien/souf2008/921
+#EXTINF:0,IND:DECKO-TV
+http://178.63.136.77:8000/soufien/souf2008/922
+#EXTINF:0,IND:DD-PUNJABI
+http://178.63.136.77:8000/soufien/souf2008/923
+#EXTINF:0,IND:CHANNEL-5-NEWS
+http://178.63.136.77:8000/soufien/souf2008/924
+#EXTINF:0,IND:CAPITAL-TV
+http://178.63.136.77:8000/soufien/souf2008/925
+#EXTINF:0,IND:B4U-Music
+http://178.63.136.77:8000/soufien/souf2008/926
+#EXTINF:0,IND:APLUS-TV
+http://178.63.136.77:8000/soufien/souf2008/927
+#EXTINF:0,IND:A-PLUS-PAKISTAN
+http://178.63.136.77:8000/soufien/souf2008/928
+#EXTINF:0,IT:PRIMAFILA-9-HD
+http://178.63.136.77:8000/soufien/souf2008/929
+#EXTINF:0,IT:PRIMAFILA-6-HD
+http://178.63.136.77:8000/soufien/souf2008/930
+#EXTINF:0,IT:PRIMAFILA-5-HD
+http://178.63.136.77:8000/soufien/souf2008/931
+#EXTINF:0,IT:PRIMAFILA-4-HD
+http://178.63.136.77:8000/soufien/souf2008/932
+#EXTINF:0,IT:PRIMAFILA-3-HD
+http://178.63.136.77:8000/soufien/souf2008/933
+#EXTINF:0,IT:PRIMAFILA-2-HD
+http://178.63.136.77:8000/soufien/souf2008/934
+#EXTINF:0,IT:PRIMAFILA-10-HD
+http://178.63.136.77:8000/soufien/souf2008/935
+#EXTINF:0,IT:Primafila-1-HD
+http://178.63.136.77:8000/soufien/souf2008/936
+#EXTINF:0,IT:PREMIUM-ENERGY
+http://178.63.136.77:8000/soufien/souf2008/937
+#EXTINF:0,IT:PREMIUM-EMOTION
+http://178.63.136.77:8000/soufien/souf2008/938
+#EXTINF:0,IT:PREMIUM-CRIME
+http://178.63.136.77:8000/soufien/souf2008/939
+#EXTINF:0,IT:PREMIUM-COMEDY
+http://178.63.136.77:8000/soufien/souf2008/940
+#EXTINF:0,IT:PREMIUM-CINEMA-24
+http://178.63.136.77:8000/soufien/souf2008/941
+#EXTINF:0,IT:PREMIUM-CINEMA
+http://178.63.136.77:8000/soufien/souf2008/942
+#EXTINF:0,IT:PREMIUM-CALCIO
+http://178.63.136.77:8000/soufien/souf2008/943
+#EXTINF:0,IT:PREMIUM-ACTION
+http://178.63.136.77:8000/soufien/souf2008/944
+#EXTINF:0,IT:NATIONAL-GEORGRAPHIC
+http://178.63.136.77:8000/soufien/souf2008/945
+#EXTINF:0,IT:NAT-GEO-WILD
+http://178.63.136.77:8000/soufien/souf2008/946
+#EXTINF:0,IT:NAT-GEO-PEOPLE
+http://178.63.136.77:8000/soufien/souf2008/947
+#EXTINF:0,IT:MEDIASET-XTRA
+http://178.63.136.77:8000/soufien/souf2008/948
+#EXTINF:0,IT:MEDIASET-CALCIO-HD
+http://178.63.136.77:8000/soufien/souf2008/949
+#EXTINF:0,IT:MEDIASET-CALCIO-1-HD
+http://178.63.136.77:8000/soufien/souf2008/950
+#EXTINF:0,IT:DISCOVERY-WORLD
+http://178.63.136.77:8000/soufien/souf2008/951
+#EXTINF:0,IT:ANIMAL-PLANET
+http://178.63.136.77:8000/soufien/souf2008/952
+#EXTINF:0,IT:SKY-TG-24
+http://178.63.136.77:8000/soufien/souf2008/953
+#EXTINF:0,IT:SKY-SPORT-MOTO-GP
+http://178.63.136.77:8000/soufien/souf2008/954
+#EXTINF:0,IT:SKY-SPORT-F1-HD
+http://178.63.136.77:8000/soufien/souf2008/955
+#EXTINF:0,IT:SKY-PORT-2-HD
+http://178.63.136.77:8000/soufien/souf2008/956
+#EXTINF:0,IT:SKY-SPORT-1-HD
+http://178.63.136.77:8000/soufien/souf2008/957
+#EXTINF:0,IT:SKY-HITS
+http://178.63.136.77:8000/soufien/souf2008/958
+#EXTINF:0,IT:SKY-CINEMA-MAX-HD
+http://178.63.136.77:8000/soufien/souf2008/959
+#EXTINF:0,IT:SKY-CINEMA-1
+http://178.63.136.77:8000/soufien/souf2008/960
+#EXTINF:0,IT:SKY-CALCIO-2
+http://178.63.136.77:8000/soufien/souf2008/961
+#EXTINF:0,IT:SKY-CALCIO-1
+http://178.63.136.77:8000/soufien/souf2008/962
+#EXTINF:0,IT:SKY-ATLANTIC
+http://178.63.136.77:8000/soufien/souf2008/963
+#EXTINF:0,IT:RAI-3
+http://178.63.136.77:8000/soufien/souf2008/964
+#EXTINF:0,IT:RAI-2
+http://178.63.136.77:8000/soufien/souf2008/965
+#EXTINF:0,IT:RAI-1
+http://178.63.136.77:8000/soufien/souf2008/966
